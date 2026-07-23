@@ -1,0 +1,70 @@
+{
+  "Environment.GetEnvironment": {
+    "response": "SiriusApi.Shared.EnvironmentResult"
+  },
+  "Data.GetMasterData": {
+    "response": "SiriusApi.Shared.MasterDataManifest"
+  },
+  "Account.Register": {
+    "request": "SiriusApi.Shared.RegisterPayload",
+    "response": "SiriusApi.Shared.AccountRegistResult"
+  },
+  "Account.Authenticate": {
+    "request": "SiriusApi.Shared.AuthenticatePayload",
+    "response": "SiriusApi.Shared.AuthenticateResult"
+  },
+  "Login.Login": {
+    "request": "SiriusApi.Shared.LoginPayload",
+    "response": "SiriusApi.Shared.LoginResult"
+  },
+  "Data.GetUserData": {
+    "response": "SiriusApi.Shared.IDataObject"
+  },
+  "Home.CheckReceiveLoginBonus": {
+    "response": "SiriusApi.Shared.LoginBonusResult"
+  },
+  "Home.CheckEexternalPayment": {
+    "response": "SiriusApi.Shared.EexternalPaymentResult"
+  },
+  "Home.GetNotificationsAsync": {
+    "response": "SiriusApi.Shared.NotificationResult"
+  },
+  "Inboxes.CheckPackagesAsync": {
+    "response": "SiriusApi.Shared.BooleanResult"
+  },
+  "Friends.GetReceivedRequest": {
+    "response": "SiriusApi.Shared.FriendListResult"
+  },
+  "Circles.GetInvitedCircles": {
+    "response": "SiriusApi.Shared.CircleInformationResult"
+  },
+  "FriendInvitation.UpdateInvitationMission": {
+    "response": "SiriusApi.Shared.BooleanResult"
+  },
+  "Player.UpdateGameHintRead": {
+    "request": "SiriusApi.Shared.UpdateGameHintPayload",
+    "response": "SiriusApi.Shared.BooleanResult"
+  },
+  "Player.UpdateSplashLastDisplayTime": {
+    "response": "SiriusApi.Shared.BooleanResult",
+    "updates": "SiriusApi.Shared.IDataObject"
+  },
+  "MasterData.Bootstrap.NameBaseColor": {
+    "model": "SiriusApi.Shared.Models.Master.NameBaseColorMaster"
+  },
+  "MasterData.Bootstrap.IconFrame": {
+    "model": "SiriusApi.Shared.Models.Master.IconFrameMaster"
+  },
+  "MasterData.Bootstrap.HomeSkin": {
+    "model": "SiriusApi.Shared.Models.Master.HomeSkinMaster"
+  },
+  "Wire.Fault": {
+    "response": "SiriusApi.Shared.Fault"
+  },
+  "Wire.Deletes": {
+    "response": "SiriusApi.Shared.DeletedDataObject"
+  },
+  "Wire.Effects": {
+    "response": "SiriusApi.Shared.INotificationObject"
+  }
+}

@@ -1,0 +1,3613 @@
+{
+  "ClientVersion": "2.31.0",
+  "GeneratorVersion": "0.2.0",
+  "RootsSha256": "07dfb140f85156d2b4ee0b3e5271d4c705a8d0dd324b55f0ce0577b382dada02",
+  "Inputs": [
+    {
+      "Path": "Sirius.Shared/Sirius/Shared/IUpdatableDataObject.cs",
+      "Sha256": "c323a16a6d9aa78ec535398c786dd9f7cbd95b6d4df562bca9f9d2c04b8280df"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Abstractions/IPartySlot.cs",
+      "Sha256": "5a823103e1f3193d2585e86b43ae141c7038e22dcd8b2694ebb7c01f93f17878"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Abstractions/IReceivableThing.cs",
+      "Sha256": "101635ac3be995e55c25f7f8a5ece3ae895345d2426d71e3d2d5535d180070ba"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/AccountRegistResult.cs",
+      "Sha256": "6718e64bd16872fcfe9ee303d68dcd8fab0f8de79422c279d5dfc42e289c6851"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/AccountRegisterErrorTypes.cs",
+      "Sha256": "7ac37f6dbcc40b10cfaf70073c4798f3d4a96131637e1c05dbbd65a896211c9d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/AchievementRateGrades.cs",
+      "Sha256": "f5226dac4b82882b5783d9d4d0e36ab768b0ca1e9e4d960de53e1f759eea86c3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Attributes.cs",
+      "Sha256": "475ff8415845b665c1053c827e0c857fd629ad78f7133b95553ec0515e6fb89e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/AuthenticatePayload.cs",
+      "Sha256": "348e20c2397b4ae427277b1f10e0d4374fffe30c06ad63057d05b218b4999226"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/AuthenticateResult.cs",
+      "Sha256": "6da9110521b248af45cb65a68559fc3cb4817cb79b6023fdde3a9d76e03cbcee"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/AuthenticationProviders.cs",
+      "Sha256": "3c73418b1721f32af1cf7d65571319e12e94f16a152e9827f85a5d8a0ef0f6d1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/BanLevels.cs",
+      "Sha256": "bac0548f74fad586a9e486d06b2ccbfa4f296a0445fe5d935a29e958c589d83d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/BloomBonusTypes.cs",
+      "Sha256": "75963b12ef9ae0e684f671eae338f07ea7dbc1052a831ca67745b814fe7ede95"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/BonusAbilityEnableFlags.cs",
+      "Sha256": "af18ea410e26d6594badf8dbf7633c89012c8936e26056d5578fb5474a1644aa"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/BooleanResult.cs",
+      "Sha256": "61a2a188292d3749387ee3f9382a157907b9b06f77d5fc6f3d30d8c3e16b262f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/BranchConditionType.cs",
+      "Sha256": "7ad12c9cc7ce791e51207fc5164163571210acc107a1a972e4589bbd028b8c0b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/BranchJudgeTypes.cs",
+      "Sha256": "f75a5fbc4b56c78bcac3c6bf7383348058d1993609c7234da1521383ef834ae0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CalculationTypes.cs",
+      "Sha256": "af8d80fbe57b8ac1d770e92372842c78d2c5f8e5ddf58513d111a193132407cb"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CampTypes.cs",
+      "Sha256": "50d58ac4c7def50b490adc86cd38fff188db5f07ea36d40c4961a9525c76bc37"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CampaignEffectTypes.cs",
+      "Sha256": "887cb208b9ff35891bd272941976714a3b6a1c0e31c597d0f4aa8f0531c4030d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CharacterBaseTypes.cs",
+      "Sha256": "59582a56ee718bdd6f7a5692c8e30c2fca37e982ff4f8fddc552a94cba3f5f3d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CharacterEpisodeOrder.cs",
+      "Sha256": "34642cc5f0d52ca55710f36160134ba053b51fa6b8600d45ad5aa630093fd6df"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CharacterRank.cs",
+      "Sha256": "b4cc948fba7985b70d655a23361ed54b0d2e93c3229bdf381971af592c224dec"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CharacterRarities.cs",
+      "Sha256": "b7835ffc8bb934dc0de393f710e0de0d15a6d1cbce2073f4a6332b28cd392874"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CharacterSelectionTypes.cs",
+      "Sha256": "f0c23ac6a9074478e4adab5f9536efef7873a2667eb4390a55d829668989a51c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CircleBanner.cs",
+      "Sha256": "eb405dcd08a996713f631197b367bc227e410dac35142c162e971d412c0cbf8f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CircleInformationResult.cs",
+      "Sha256": "ad4d68e9fc596db92cd985866ee4c19235e3862301586ee7326dbe689bbf189d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/CircleResultStatus.cs",
+      "Sha256": "22f5c1834fd175be8ef08b3083128cef5fda3c8be123c135fe309718321be9cf"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/ClearLamps.cs",
+      "Sha256": "e4bca16372de52eb2352b908fd3b9260d7f86635ccd9171612e056d8695c0d9c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Companies.cs",
+      "Sha256": "dd57a0f3528a26131a3e185c1ff2def3848f267efd0c297d0759cea7a4da43af"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/DeletedDataObject.cs",
+      "Sha256": "0182b221d0664a55c937e02c656998be2b712ae5b63b82cf9177df0a01b4328b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/EditTypes.cs",
+      "Sha256": "17fc4bd7036c662a3cb63ddf1c8487a547e1bf15c0cb82440a5d99d13f82adb1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/EexternalPaymentResult.cs",
+      "Sha256": "fad64e08754b6c4d5f3ca2c0661e2ab6d1fd679407c99b027bec3e152dfab775"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/EffectConditions.cs",
+      "Sha256": "59991b10398f4fb8ade4be65c5e8a3f241660f0a76d6c5a8d4f6b72798e8eb6b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/EffectTargetRanges.cs",
+      "Sha256": "79225327d80e18b6da8652d118d9d437c084cdd17fc9204efe615387475b1f72"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/EffectTypes.cs",
+      "Sha256": "6462103a993bf75e3a7fd2ddd390c855f3d1cb05aa73f5bed1a4297874ee7890"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/EntryTypes.cs",
+      "Sha256": "c20523f53490602fe83ad9f3ceb89efb60af9e82d9df0ac8fa6b944439288ecc"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/EnvironmentResult.cs",
+      "Sha256": "491251c17185ec6220ee5a5fc60a5fc7f78a3b8acdbf76bf423a278d96e8ed21"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/EpisodeReleaseConditionTypes.cs",
+      "Sha256": "297b7e8bfad181d90cffdbd1c502df40d3780633b75d8dfb8cfd70a726d23678"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Fault.cs",
+      "Sha256": "15e43792acfe7aa641e0cd71e218474b08df9c5c4fc7023070b35df18b80f1a9"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/FireTimingTypes.cs",
+      "Sha256": "a38c4eec45b7b72bccae98f529fddd76b8342f00730b58a77da267ac723eeb90"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/FriendListResult.cs",
+      "Sha256": "81c92fb76e6fc02b41f93986d64a019aa2836c4cd154f472b1978fce97c4acd0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/FriendResult.cs",
+      "Sha256": "01b92558bbc1484a3e510fa213b706a66a20500c48252154d928836fe48a897c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/GameVersions.cs",
+      "Sha256": "920a2541bdce18a02937f86b0eb2aeeacc677b4909f144b300e75730310a3c7c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/HighScoreTypes.cs",
+      "Sha256": "47c585da7be0788b609cd78267b5bcb96f3cb8ded17b1fa0f0574a50ec49bd2a"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/HomeBGMSelectionTypes.cs",
+      "Sha256": "cc7f8427501d6b6b8c90cb76b3b69f64b7e630f966710f48ab8d0a87bc0e5544"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/HomeCharacterDisplayTypes.cs",
+      "Sha256": "964bd3106a2f44f0b594be1b38004b7d6e6f2192ab5770f0981ba93baf307ec3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/IDataObject.cs",
+      "Sha256": "691ddf36d426ff413beec3f2dd0c0344168906e09a0ec8cd84fd7f3a9087c3ca"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/IMarket.cs",
+      "Sha256": "ca49c214166d4bd8b9c87cc80fe00580f1d4cf2598109017387b0642c14d6035"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/INotificationObject.cs",
+      "Sha256": "ac6a91bd9700a1d394483ee487a7e4266c2b674147850a01b35a72eaae6fb0fc"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/ItemCategories.cs",
+      "Sha256": "2d55ffd8e8647a162b6e38e620196c94b9861a1b45f8f7e84aaa617956d7d69e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/JumpTypes.cs",
+      "Sha256": "9d21cd2af9082e77ffec9590e5a333d2fe68433fade879c1f599d36681bb4ab8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LeagueClassChangeTypes.cs",
+      "Sha256": "4836b6644e7753604dd7979aab24bc489c71a30fc75cb1449baabec6bf63bd93"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LeagueClassTypes.cs",
+      "Sha256": "c9dafb5e477bd7cd0107eae71fa130f7f42514b156ab08e7c07929f593c5306a"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LiveReleaseStatus.cs",
+      "Sha256": "5b379c31bc209657ec0ef4f418bfe673ac8eaf5305addeba8c95045bf3d7de90"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LiveTypes.cs",
+      "Sha256": "b2cdfb30451f05b4868f5daa53e363a9ce0492f030b8c4a2c267c69c761e8ac8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LiveUnlockConditionTypes.cs",
+      "Sha256": "6745a03bbb67d6ecff476a2987cb262fdc086527f150b871ad224eb89e91d5f0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LoginBonusDetail.cs",
+      "Sha256": "3aaef760f59cd138c0b2a9043e70d13bdda7ee3bbe3257c8a065e9d4c0dd3ae7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LoginBonusLayoutTypes.cs",
+      "Sha256": "3255a4cec20890b8c47d9ab32ef9064e79900c36de156051f7932efc148ea723"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LoginBonusResult.cs",
+      "Sha256": "53b2084e240cee57fe6f2302c4093e369016e5925e0f5c65fdcba94811f20299"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LoginBonusSpineDetail.cs",
+      "Sha256": "d9600df3befc76c02ec0b3d7900ea2c7e7d1f49bab8c87f8f6a04f612e53189e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LoginBonusSpineGroup.cs",
+      "Sha256": "bad7f2a69b2f231ee1638ae879440c69a976f48626b24bafb72e1da8d8fde14e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LoginBonusSpineSelectType.cs",
+      "Sha256": "7ba82e25a05fbc12ff0584b3702cef94d7b3e14e3fe026906b0797c798a63c2f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LoginBonusTypes.cs",
+      "Sha256": "2cca25d2f383447fbcb0f2ede9503cfa0b4540ad28e418acc7c2e6e2f8c609d0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LoginPassNotificationTypes.cs",
+      "Sha256": "0ee8cdaaf6fab9225b3c6ed14bfc58051be0a8762b1373801d6531993742008d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LoginPayload.cs",
+      "Sha256": "ee3d4e6f6e79d6382b6f5b6f3331b0a2060139f14ffbf9a1e6da3df96085b135"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/LoginResult.cs",
+      "Sha256": "aa72f53cacddad6db5c1ced80ea3abfea378f804562c4dd380bb29649e7f3759"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Market.cs",
+      "Sha256": "717691d7269734411a601aab4956a329fded4197b51fae443d173923bf934b05"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/MasterDataManifest.cs",
+      "Sha256": "5fdc49389f6466cf5f50c474a5134850a50d8d1c03498eb006fdd758310699a7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/MissionCategories.cs",
+      "Sha256": "e0b6274eba1c10694d126b2f6df2b66e01e8542a76b50490a10e464309ce9c50"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Accessories/Accessory.cs",
+      "Sha256": "dd774ef39fdcd1df124dea5634fe52b4bdbd48bf6243dce46ceb74c7bd234224"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Accessories/AccessoryAutoSell.cs",
+      "Sha256": "6fb60acb58d797cbe24f2b99ef59bd4fbce1e1548050628379145f160e258053"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Accessories/IAccessory.cs",
+      "Sha256": "9c27ac2095442593a06012ec674464527b849f71da54bf8e44655c478592375c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Accessories/IAccessoryAutoSell.cs",
+      "Sha256": "5bfa484bdd37a58351d373e369e653c525962e625a69f5197b1a8d8ae2be9570"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Accounts/ConnectWithAccount.cs",
+      "Sha256": "5187590b3a9ab65043b0baafa42c3213bbe482d775fcd70ff97bc500ebd8f0f3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Accounts/ConnectWithPassword.cs",
+      "Sha256": "2bfe1be35769c4f71a760bf92a82b95c19d0fb061ab1741a5e19c7b405818848"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Accounts/IConnectWithAccount.cs",
+      "Sha256": "79dbafb0b5b8aca79388e2763e794e41963c3f05676fbfcbe8f689dbed8bcb74"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Accounts/IConnectWithPassword.cs",
+      "Sha256": "ece4edc7d0ee8222a113e9d8303db2c3b87d09c8c686cc0e5dbad695a28797f5"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Accounts/IRestriction.cs",
+      "Sha256": "099e1e03ae4064fdc82729930ae5995663680abb9c43d5c109efe0a0788c207f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Accounts/Restriction.cs",
+      "Sha256": "c4577aee2238e95cf6a9def78f9639492cc5e6e47dc3f948a4ec90b2815aa160"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Characters/Character.cs",
+      "Sha256": "3a251fd50ba313b24495cb17da4175485f20f95fc27c14625ea6e0b17f6bfb23"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Characters/CharacterBase.cs",
+      "Sha256": "b04b302d46ba4ec68271565d5aa0d5adc68c0d8ff919c557bc48e00998f6097f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Characters/CharacterMission.cs",
+      "Sha256": "e92e4f8d43913f4a878488818214e11bc76175d5ae32d2cc4efa37b3b3684243"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Characters/ICharacter.cs",
+      "Sha256": "89249701140f6fae94666342eb858c7b44da0986bee991067debb0b2493193f7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Characters/ICharacterBase.cs",
+      "Sha256": "c0b7c8f508efa3ff52b765f285c9764fbc2096f8d6b26e81ed10b36bb39b5edf"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Characters/ICharacterMission.cs",
+      "Sha256": "c8aca6f983bbab47596e0aafd94b737bb074b555d347e05275a5f6f68f81b64e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Characters/ILinkCharacter.cs",
+      "Sha256": "35137182b95fe4f7556009a7851dd755e384b7b6df008a981191f849b31f72b8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Characters/LinkCharacter.cs",
+      "Sha256": "61e33364172220f7285d11c0e8acf9ce9ea76508e277988687f584292778c529"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Comeback/ComebackCampaign.cs",
+      "Sha256": "cf169688178305f97aae0a6abfa7be92b9fd4d42f2ecab047065dd365041721f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Comeback/IComebackCampaign.cs",
+      "Sha256": "be032fba84050c9733d7d278e65ff4ca345ffff594c5cf6ab80c57f7a5bd9c99"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Comics/Comic.cs",
+      "Sha256": "8a7f6b9fc2adaa748029ac5871035b19c2588839613a41c891271149c1bb0401"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Comics/IComic.cs",
+      "Sha256": "48a26b2ff9addea998c4483e3d8d36a477f5fe0e7bfd145c7923f37b8fcd3af0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Episodes/Episode.cs",
+      "Sha256": "633076590e0343f51b74a769f07e62b6ebfe64702f123bc8c08e7d1fe1d0441f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Episodes/IEpisode.cs",
+      "Sha256": "c738d1996fda9be1dbf01c0c27ac3deadcabad5163f9260d2a8e82f13b20b703"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/CharacterPointEvent.cs",
+      "Sha256": "62373a4f212d0862385aa6314db44e527121fe742920a8f45ef6530c91d25691"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/CircleEventMission.cs",
+      "Sha256": "66bfde1d3ecf901d24e1ccfd2b8f92edd8da81a76e9f4f25ecd5c71ebf6a163b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/DugongRun.cs",
+      "Sha256": "3adcc98dad94732a521c849ab30fbcdb03b80821ae09d48768d594d96b1bd948"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/Event.cs",
+      "Sha256": "f4237f3b184524572cf232441a0c637e488e028f0630cd813d7f5d0c3e5791cf"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/EventBoxGacha.cs",
+      "Sha256": "ebd4d00fdd13fe565434b2fc909e2a071a4656feccd1766591a64796727e6528"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/EventBoxGachaBoxThing.cs",
+      "Sha256": "50c30db9107a9e1e28b594e0a6a67b411b41640c42cf181d8dc04bf91c926717"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/EventCamp.cs",
+      "Sha256": "5040c59a65075ed3eab0ddf151c14c8284204585f818aecde70575e9dad52e4e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/ICharacterPointEvent.cs",
+      "Sha256": "3403083bca85c5187e06e3df49e6c1fa6bca74ff2a5531a975f60f1e51f7569b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/ICircleEventMission.cs",
+      "Sha256": "63e7b340ea9758e639c9bac10dfd40cfc9f709ee5b8c35bc4f4c2eccd0931b50"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IDugongRun.cs",
+      "Sha256": "85b86bd3eb40e4d48f3e8cf25be9cf7c179da113b4c1072c40403246edd86c88"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IEvent.cs",
+      "Sha256": "1ae0716e84237cc10a08f54beb417bc576a8f47b053d14b2cc0bc72634485fde"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IEventBoxGacha.cs",
+      "Sha256": "1c9d2ed314f39a7532fffeee1d0b50e521353bbad2172210e35bfd0cc44e915a"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IEventBoxGachaBoxThing.cs",
+      "Sha256": "d15b8eac7de73f527b8acc6dd959bfcfc3214d9bd2d2286867aca20f1dddf34b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IEventCamp.cs",
+      "Sha256": "181cad49d920cb0c543ce40aec09d448edb9e78749f69c3b39e384317a9a40d4"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IRouletteEvent.cs",
+      "Sha256": "81e4ed43aed334edb3bdc7000b272a9e900e92b6163a9da67b6e1c15310db351"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/ISpecialEvent.cs",
+      "Sha256": "0043d13cf1bf0fdf271dafaa667bbaa514bf4ab6af9aafa40bc2c075be3a92ee"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IStoryEvent.cs",
+      "Sha256": "649b716e4e5b0399d8303c0f01e2d04fc9ddd761475cdd2b98359157049a8ced"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IStoryEventCircle.cs",
+      "Sha256": "307c467c292e05388ecd2ca05f50d6abe89fd9e1d9e9c3dbe1ca0e471f1de7ae"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IStoryEventCircleMission.cs",
+      "Sha256": "85444af9fa4757cca9b37335aa386a4b9d4cf8f9b2be82c54baa341f4526fdf7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IStoryEventCircleMissionReward.cs",
+      "Sha256": "91e2a38980da3830f6445ab9208bcf5d18e28104653426da5ae2073cda7c9383"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IStoryEventHighScore.cs",
+      "Sha256": "425b7b0c3ba24c0fdadbe582061958008b0186bd58ff759c2f0eef8ada9d6a03"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IStoryEventHighScoreBuffSetting.cs",
+      "Sha256": "7f62e41b033cf18cd1300ea8216a451649d3be54e37c17673fa74d167580913c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IStoryEventHighScoreParty.cs",
+      "Sha256": "51ebed0a77b291613a40df37452353df1899ecda151ad1e79130493f82deb622"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/IStoryEventHighScorePartySlot.cs",
+      "Sha256": "ca78e8c852b174f138baa309dadcfb6d14385c62b98c0019afa443489664c406"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/ITotalPointEvent.cs",
+      "Sha256": "7283d448bc8ec8fc73f9dcd05972246795a56b70542c4181b40bbedee666a483"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/ITournamentDetail.cs",
+      "Sha256": "0e88911ebec3bf016d5d57184646bbb425bd92e3060946c4cab29e05f2fb9a6d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/ITournamentQualifying.cs",
+      "Sha256": "b217e95119d887198e9a2613ff14b182eaf96d297d2ed16eb37133cace0a219e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/ITrialPartyEvent.cs",
+      "Sha256": "b6c647120cc1d45864f0a6267eed84036d958ec7890d515922a15ae2f3e92ae9"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/ITrialPartyEventStage.cs",
+      "Sha256": "9e4b5b0fde9728127b3b01be2f97ce5bb103268f51fff1485677805c686ff75f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/ITrialPartyEventStageParty.cs",
+      "Sha256": "2cf8aad4fc9d95d55ac8a37d08cdb9b3ac9ebc0b0c1a52e5ca0253a46ca3be66"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/ITrialPartyEventStagePartySlot.cs",
+      "Sha256": "4073154584d76f4e0de5b9e1a2113d77a2f50d1f107087916800eb02474d00b3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/RouletteEvent.cs",
+      "Sha256": "a3263aacf9d5d276bca343996c3dd1d2dac786d55882bc91d5040d2c47a76795"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/SpecialEvent.cs",
+      "Sha256": "a99838396c69ff3f7401d40ae14e29e293e5e78095a8463cfe012aa96a497584"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/StoryEvent.cs",
+      "Sha256": "037bff58cef6047983fd35fcab1ca995c73b67c2c14a7e6680284c53651a49fb"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/StoryEventCircle.cs",
+      "Sha256": "7ed17c9ea8efe448bc8b03a0135fc4a5179f0ca0cf148c4c2b5c6ac4f738b871"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/StoryEventCircleMission.cs",
+      "Sha256": "ff27d380c6aa14f57704f2c37240a0c8cd00583c8e5e3890e174e26ea965b880"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/StoryEventCircleMissionReward.cs",
+      "Sha256": "5bdf6ba6bce7cb038d172c56fa13ccc99c0b9f3d0701c0f8518ed1dc64952533"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/StoryEventHighScore.cs",
+      "Sha256": "292da92a745e05608e553ee850fb064b2234f64cba34dedb6607daac1827a794"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/StoryEventHighScoreBuffSetting.cs",
+      "Sha256": "5f3e1463c7ca0c6b1c108015901cca8d609801166b633dd3d2ecb043131bc9c5"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/StoryEventHighScoreParty.cs",
+      "Sha256": "59e1b3087a1af72216523e8bd0afa3f77f592c129660964603ce41f3ea107be6"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/StoryEventHighScorePartySlot.cs",
+      "Sha256": "945fe90ceb535d639938d28cea4cf786dcbd8a9a96165cf12cbb0b4b88292842"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/TotalPointEvent.cs",
+      "Sha256": "6b6452e1e734a368ba2ea3fa4986918fa309bc947cbd16b0f9d11ebfd2e713a5"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/TournamentDetail.cs",
+      "Sha256": "947c5fef8845defa8c04a6a9f7e8acb993baee3a68fa5e2ebdccb01213c2e3c1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/TournamentQualifying.cs",
+      "Sha256": "8b1df184a12e440afd81b78afe136209f0b8a8874bfd81a2becb1ba7a4292674"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/TrialPartyEvent.cs",
+      "Sha256": "396b3e91ade96f7bde20423d4541db6d824eda0f8569e95c8536991807e68294"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/TrialPartyEventStage.cs",
+      "Sha256": "90ebb489f1d9a92ee460babeb3e8df495529382f7c8a77c901d114eda703146f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/TrialPartyEventStageParty.cs",
+      "Sha256": "4dde626452ef375ed60f05c2ee1128221efbe410ae88f3aa6a0abca50b6d1f95"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Events/TrialPartyEventStagePartySlot.cs",
+      "Sha256": "fc0d437a106919a0bce6b05b11a9608cf9f0adb40235165312816f2e2702a039"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/FriendInvitation/FriendInvitation.cs",
+      "Sha256": "2f3d71e60a87d802036fd93fd7ef7d453060a9e250a10c9972477f0ab8155e89"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/FriendInvitation/FriendInvitationMission.cs",
+      "Sha256": "f295b350234d820d227ec35bb444c5995b4a0e6b71accf113c55396189b5c06b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/FriendInvitation/IFriendInvitation.cs",
+      "Sha256": "dcf08cb8be06e3ea551939e8e92cf79716858aa7da8f9794fa171bc8a498cb5f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/FriendInvitation/IFriendInvitationMission.cs",
+      "Sha256": "012da989110423081e215ae2e168d809688cbc14231f443e81c5df5ad0ec49d5"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Gacha/Gacha.cs",
+      "Sha256": "d68cfa94c0a28e3ddda276bb68c2c7d395f1781ccb9a55ddadc12c1182c68f0c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Gacha/GachaReRoll.cs",
+      "Sha256": "52ce1c39d111fdc6febbe82b87ec532ed0a1c4bfe02f6ad44650febee5bfd35d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Gacha/GachaSelectedThing.cs",
+      "Sha256": "ad4ca1ce32771979180b91bc4ef58ec6128d12d1f2279e5cb1f11596962ad876"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Gacha/IGacha.cs",
+      "Sha256": "7da06ea9d9f748e80c3f5fd964b3fd7ebde88bb35f6bd97d461352c2841c8a0f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Gacha/IGachaReRoll.cs",
+      "Sha256": "d64e90a33fc082171c5c80767a57c276b90d9a5d84f4ff6c36a2e092a1fe2b61"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Gacha/IGachaSelectedThing.cs",
+      "Sha256": "c29bda06fbc2e6648d7e48b1fb910d66ba346f376f800b5dacff3a1934c0721d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Home/HomeBGM.cs",
+      "Sha256": "830e3f03df955df06844293dde97a85240b54f2821c7afb979032dc1851dd84f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Home/IHomeBGM.cs",
+      "Sha256": "faf4d2ebcbb385d70fcb308351011e28e32f5ba37e49a7a65cda2e5eda40d612"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Home/ILottery.cs",
+      "Sha256": "e3f1f2ca3277b2165011252e550b451f2bcb7ad9da36a0d76a75839c690dd34a"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Home/INotification.cs",
+      "Sha256": "ee430cedaada1e8b623b132a2578de397c64be89261540e319959d9aa59e8481"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Home/ITimeLimitedControl.cs",
+      "Sha256": "2946c3dc28c308219637ad7b4da3516e30185bf03e431bd9285c5951025b1591"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Home/Lottery.cs",
+      "Sha256": "1b13a1673ccda5a84a78878ffc5ed0b38652385ded58eb06cc8c1f5dc540dc4b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Home/LotteryPriseResult.cs",
+      "Sha256": "e1841a18fc4c086e661d96f3a0dfb7f3052109c8f91c7518a90609e9970118cf"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Home/Notification.cs",
+      "Sha256": "625338bd183f493a24681b36e8521689ba5f806b8f1ae260dce91a8722cf11eb"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Home/TimeLimitedControl.cs",
+      "Sha256": "04a73dbca364e4127940d7a5b00394d8041700b3ff796fc718320fb3dffc44f6"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Inbox/IInbox.cs",
+      "Sha256": "59f10f5fbdac53be2a9c44468be609a8a9b559f06e6a0928e8bd8d0069336186"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Inbox/Inbox.cs",
+      "Sha256": "4b5eef31c6cdd9d6b87e01a116f3722d9c8f3a15e7a30b574d2419c2f2982b58"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ILeagueBasic.cs",
+      "Sha256": "66cadaf1eccb11ca27dbc433f6f95d7a1e18c58eaf7522444147aa3dcc548ed2"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ILeagueGroup.cs",
+      "Sha256": "31a6fb6dbdcdcd539a6723eb476beaed6002f4815bab199d6d1a93903cdcc75b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ILeagueGroupMember.cs",
+      "Sha256": "47b13a7917c5f1bcacdefd08cf2012588dba4a2083f3e8eb73c43c25b6e93733"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ILeagueHighScoreParty.cs",
+      "Sha256": "41b605818663733744ee5e3fd99acefa78a7609d0060ea31a785999b0ed76e2f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ILeagueHighScorePartySlot.cs",
+      "Sha256": "8b47a6f9549d650de7be693be1e2d92462c072a3d3383aaf7b766a53b42bd208"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ILeagueHistory.cs",
+      "Sha256": "fc4ef277c70228c431c70fbbe7cbb602c7bc22031a275edb6a2aea32484b86a7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ILeagueSeasonResult.cs",
+      "Sha256": "f21b6e3a0fc45ff1970ee029492df465d83f95222f6e8cbb03ff5f6050b67eef"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ITripleCastBasic.cs",
+      "Sha256": "1c11f71af0717482f4d12cad4dc2556e7221e1abddbd0c1014491eda8dfce229"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ITripleCastGroup.cs",
+      "Sha256": "a6072199349b69d177b7084d03f37909d82292d729cc548171f8cd4b231ba74e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ITripleCastGroupMember.cs",
+      "Sha256": "c34af85bc20be10a0f21231b67b3378c0869de1dbbad5f31dfc9f5c671be0e19"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ITripleCastHighScoreParty.cs",
+      "Sha256": "fae5dbf33f6ada0227c27a8acd10eea525da532505f4db4d14d3699713390718"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ITripleCastHighScorePartySlot.cs",
+      "Sha256": "f5a094ae3851fe07b00d7517382679940b82ed6eb5aad1271e3c8eee6c378a9b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ITripleCastHistory.cs",
+      "Sha256": "1cc15be66b52049aa39997b5edf03228fb279e61253e63e2571b0ec127559d05"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/ITripleCastSeasonResult.cs",
+      "Sha256": "b73e98b3a1f4684c81ca61f57435f09d5ddbaf8d547a72a67d19afa22c4e3c2d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/LeagueBasic.cs",
+      "Sha256": "80b4e32880b94023d42430bc281bb352cd6a1049a73e01d77eb1c54c6f8cf78a"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/LeagueGroup.cs",
+      "Sha256": "d2366f43e722146a787f9b10ba67b7189866a79e146dc25557f6b5cb3b448b44"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/LeagueGroupMember.cs",
+      "Sha256": "84e9603a464e23453e13c2208ba1d6aee4331286767dde78284bc2458f3de624"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/LeagueHighScoreParty.cs",
+      "Sha256": "f24f7a32dfb7258079da77ffc7cc8eb64993917c4ca4691b248d523d29594c5f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/LeagueHighScorePartySlot.cs",
+      "Sha256": "287cf0d740ccae5631866f82d77d2ae0e03630856e4d5179b6ccb0914625712c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/LeagueHistory.cs",
+      "Sha256": "98f06b9779f2b73e23672fb3592e863ce7d46414ec4e80e8fd3089903924aa62"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/LeagueSeasonResult.cs",
+      "Sha256": "c61ed609d9b3bfa69aa07eb06439c47306211eebdde883ded3184179ced49ce8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/TripleCastBasic.cs",
+      "Sha256": "d51443240a723439201294627ddb6111d491f9242e8903620c175e3bea0e4efc"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/TripleCastGroup.cs",
+      "Sha256": "fc84bb2ec01bcb901adb058b6cce9de7ab2bfb6cdaab914670d477866442e617"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/TripleCastGroupMember.cs",
+      "Sha256": "973b41b59130a36f0fe663f00f3521f24ae20f25dda0abe3aee60935fdaad773"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/TripleCastHighScoreParty.cs",
+      "Sha256": "cb240e67ef9a00930365649a2025e8b50885941ecddd9714afe2465b84798d31"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/TripleCastHighScorePartySlot.cs",
+      "Sha256": "8c012803b8a4aa040f97c948707d269e423771f64930a5d6aa18d7760db2bfcd"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/TripleCastHistory.cs",
+      "Sha256": "c9d9cc425ae5c8791735c8c6cbc46991e68ca3bc202ad338e9ee19122b80759c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Leagues/TripleCastSeasonResult.cs",
+      "Sha256": "8a86ca0f6c4e11bafe767493998d6a175e1f87d714f78f1fc8b0f3cabdac3c48"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lessons/CharacterLesson.cs",
+      "Sha256": "51cddc9b3f261fcefcdf6d0c1ab1a420fce4813edb03494979ccbdb32d7d06e8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lessons/CharacterLessonSlot.cs",
+      "Sha256": "a04d46e5aeb18ce83153edf2bda22378ce045e4b3877fc867c6d627133b08be8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lessons/DailyLesson.cs",
+      "Sha256": "007883022c7fbb5d6ab77364c4c84dc00b371cd9332417a295adced969aa4317"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lessons/ICharacterLesson.cs",
+      "Sha256": "f5e21b97b8abfc165f34e5bf366c12f7164a9ca558ae783823115660fb9bfe6f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lessons/ICharacterLessonSlot.cs",
+      "Sha256": "5645a40e43aa38152d0b542800a696d27c678b9ff91dd187dec60b85dc98e884"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lessons/IDailyLesson.cs",
+      "Sha256": "23db13a6f4295ac8d7079f3f4bb8bc6d224f82752d0a6d42cd0ca57509c0f3f6"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/AnotherNotation.cs",
+      "Sha256": "8aaaf4357524448125ebe1e54758298479e800d302c316d1222c287793e44a1e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/AuditionClear.cs",
+      "Sha256": "b908c682a54cd2e45ab69872d4d08d27f8dcfc595ebb09faf48f1c7ce7e33cdd"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/BonusLive.cs",
+      "Sha256": "6c8ab676f52124eb18c03723c7432a359cabbd2d8707b5b20a08f7894f12c5d0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/BonusLiveStage.cs",
+      "Sha256": "adb84c303f41fa44ccd3831e7dfcb97e72ddce8f7fe383d3379b0e4d5aff16d3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/ConcertStage.cs",
+      "Sha256": "4c735648fa93dd8542e437cdfd642295708e064f573f2abb57edc81f44aa2c0b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/DailyLimit.cs",
+      "Sha256": "a24e30f388a5ed59461181223da051f908d356db8b0e7c2876f62a10475cc742"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/IAnotherNotation.cs",
+      "Sha256": "b7adc75f981f70013dc2879738c28db179d1131e0fc7871e6416aa9c5f6211c3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/IAuditionClear.cs",
+      "Sha256": "2337d325b307fa5b7b56899694b8ee0306138987257e6dedf83218b75103d24f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/IBonusLive.cs",
+      "Sha256": "a3db541cf955617440089c7256de8c3454258e5cb8a3f3c95ec43d205ecb7c42"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/IBonusLiveStage.cs",
+      "Sha256": "5dbb9df099ee5d4f711ae0046c7da1a2d8d0868123bc56346b6f3f582a75ef85"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/IConcertStage.cs",
+      "Sha256": "761393eabd94ff72055b8a2b05a5c4e42919c0d4a71c247f04df0b95c83771ec"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/IDailyLimit.cs",
+      "Sha256": "748cd0b075e40952fe8ebd7bb52be5498f5ea7d738f39ea301674021c6b17bff"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/ILive.cs",
+      "Sha256": "2c00071e8a84b7138e3be52d54ee7182d2cdecddf128dd8da716c0ff6e108ef1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/ILiveAchievement.cs",
+      "Sha256": "8575d7e1ae50db328c8bfb2a1fab560dc9ad34bcbc92cf69260ad66f50033401"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/ILiveDropCelling.cs",
+      "Sha256": "5993b80ea7eba89e8efb406bcf26a0257ef416bb5f5315f57ce280d0e4c07373"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/ILiveDropLimit.cs",
+      "Sha256": "9245e5c2ce49ee065147303b50eb85a98dcdb0d143f7c1a67aabe31c72166227"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/IMusic.cs",
+      "Sha256": "ff505f352e2576a1b9081afd4065c3ccf7772a1665bce45773f88734f83897b6"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/IMusicBookmark.cs",
+      "Sha256": "1013b56dd57f8794e988648db44029a7d4691da95dde7298a76fb1b8bb00071b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/IMusicCourse.cs",
+      "Sha256": "f6328d904320a502f044eec1c1d872133827516c696db54ecac9ff9000cd725d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/IMusicCourseRanking.cs",
+      "Sha256": "fc0820c2fcacbe6fd879429897dcef4a26aa79e9a2c4c5b9b886750a63acda5d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/ISpRate.cs",
+      "Sha256": "cb666fc8907cc7cc5dc73eb0dec868332ccdac489d9ac984fe1d079d00f4b7cb"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/Live.cs",
+      "Sha256": "9c2b9063aab49c841d13445119e2a7a93c65e8006c664a9383ccd04f497431d0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/LiveAchievement.cs",
+      "Sha256": "468069792d4b7b75657b614b3855421235899f5093f5a26f4ba4ea6baed4439d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/LiveDropCelling.cs",
+      "Sha256": "94c6edf33504a3b201519da755341216299c4a1324b8b74584f1265501febfbc"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/LiveDropLimit.cs",
+      "Sha256": "5a5e459c735a456c5e861133fc753994c348286e4e0f3fa1d272ea782380c509"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/Music.cs",
+      "Sha256": "9006623ffa407e4e6eca631d29f2e83bb8956f1b24802e0cd864a5938067fcde"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/MusicBookmark.cs",
+      "Sha256": "5ce5397243467dbd5e4895e2c0d3bcd8a3e64182f73a69ec697349371993405c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/MusicCourse.cs",
+      "Sha256": "b17a427344d76b305627699ddefe4c1bab82e862addb0c786c4ea0429afcbc6c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/MusicCourseRanking.cs",
+      "Sha256": "e59f62d36e185d0088fd59711e209b3b12652a648f6182e10ffcdd0fb3df6aed"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Lives/SpRate.cs",
+      "Sha256": "9b0968281bce8d7da2417053b5b66612a3ac8d3ba8b6b6913a82a16e463f1aea"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/AccessoryEffectMaster.cs",
+      "Sha256": "f754cb7df98d5a370d89bd24c21d6eb96bc9ea5e5ede8e2fad40b3bc3f0893bc"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/AccessoryLevelPatternGroupMaster.cs",
+      "Sha256": "383501cdcd662dc8799c84a689219581cd6dce5ae918e4b8ddc8c224aa50cf9e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/AccessoryLevelPatternItemMaster.cs",
+      "Sha256": "8061dd798f290df67e3250a9bfc8babf8feed1b14164fd49057b6dd50ac8709d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/AccessoryLevelPatternMaster.cs",
+      "Sha256": "1f1be440fef3f223b6076304df76bcb582e8a43a156deb466b14e63db9422317"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/AccessoryMaster.cs",
+      "Sha256": "7f7f8f7832da02f6daa7ee8b3f4b8fd51318a85a7ba2413a104d9d63525f1b05"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/AchivementRateRewardMaster.cs",
+      "Sha256": "3666d47325bc7839f0d543dd776b52c6d4eadcca181ebd90afc8d319e63ddfe7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/AuditionMaster.cs",
+      "Sha256": "e62a01b645f3b6b95176e969e2584164c07cc3e91431d46ca074cbebd7900d71"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/AuditionPhaseMaster.cs",
+      "Sha256": "a08490461208d7dcb001007b711d3e466f47c55eab03a3f84c966a5a28978d97"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/AuditionRewardPackageMaster.cs",
+      "Sha256": "8b4f7b05e9bc69a19f61a23e61f310f9ab0b26dac65bda6e9ca6d3e9bd643e0f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/AuditionRewardThing.cs",
+      "Sha256": "4c9912471be850af16470187478d8483c1508788c547d9a683706a4e68eeac30"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/BombMaster.cs",
+      "Sha256": "8a511ea7a4a26e57f14d49f41b9849bdc54722d09599b725f42a4d8f039dc4e6"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/BranchMaster.cs",
+      "Sha256": "8a1c019d2c3e05cfbeb656968c6da25416d3d040555cfc42b5918285fca5eca3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CampaignMaster.cs",
+      "Sha256": "d0d9a29adc9712033cd40bd3e4c47ecc50563343281decfb477f780cd7d20626"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterAwakeningItemMaster.cs",
+      "Sha256": "2e7112fc9980007353899f61252352954ba1d498200bf2271dfd2dee4b47aec6"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterBaseMaster.cs",
+      "Sha256": "4e884efb7aa4a0cebe6a6509722d7366960803642ea9c418ec0d3a49d081848e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterBloomBonusGroupMaster.cs",
+      "Sha256": "7efb8e0b805899cc0cf9fe65c4c7bd8a3883b733d524e02c44f778c4c0f2f0ab"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterBloomBonusMaster.cs",
+      "Sha256": "7d75e052d1cd7a069f643ee561bc06aa278461bd9ab3cd79d3afa33d1e16f1be"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterBloomItemMaster.cs",
+      "Sha256": "7a9e286f2a52615e2d109e75ed61e601b5cbc533f579d45f7900ef13ccd7b3f4"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterBloomRewardMaster.cs",
+      "Sha256": "b56d5576e34cf161ff90e8f3e1cb0b5523c2d44f529bf4871f21ed09415ac626"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterCategoryMaster.cs",
+      "Sha256": "29a35947f2a28514be98b22fe62a020b484ee0bcfe03c90239ede075111ca098"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterExperienceItemMaster.cs",
+      "Sha256": "10ba363b0525a5661b95ba150c3320061f51a15496c5bf350390b03fa1714b53"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterLevelMaster.cs",
+      "Sha256": "7423c3ec6794b6668efa74caf1f04254f8bdb97495bc8dd868a5abfd99a83087"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterMaster.cs",
+      "Sha256": "d0f766447715634731eb84fe549916fef764af46076289e350ab85baacb327a4"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterMissionMaster.cs",
+      "Sha256": "1b01fdb8dcfda36bf1475a5b3b357c8425bfeb4058fc706636acf29df6130f47"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterMissionStageMaster.cs",
+      "Sha256": "ccee8cae961328226f4d2558a31f8cd97aedc7d4f592e18c56e579c821cddf25"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterPieceMaster.cs",
+      "Sha256": "9713cd5a70e416ebd1e04f5a25d2f484ff1172f8eb766a8723ba319e24bb9738"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterSenseEnhanceItemGroupMaster.cs",
+      "Sha256": "ef6a6d803fccc3e6df76183731ee2f8c6c28ab07c0e36046dc4511feb1b2d7a4"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterSenseEnhanceItemMaster.cs",
+      "Sha256": "74b31aea2a393dfbd71de8fa1c31e90abd0940b66a7c2cbc226c6cfaf2c4db36"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterStarRankMaster.cs",
+      "Sha256": "223c361641dc74a39dd97f533b97ef8568035221a4a0787d4053b7a49a7bcfcf"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterStarRankRewardGroupMaster.cs",
+      "Sha256": "e2ce9b4e29560eb5c67f41251a557ef2325d015037b5e98e6b40b64de07d68e0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CharacterStarRankRewardMaster.cs",
+      "Sha256": "aff285d9fe5e19c23bcd98877083438c2a8f24a20edcedee20d3154147a7f3c3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CompanyMaster.cs",
+      "Sha256": "22b9998a9653425d41ed52fc4f6945bef4a831aec040415ef21634ec4e253d8f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CostumeMaster.cs",
+      "Sha256": "1185b4c731d372c62b2f683a137bf33f402490c29c3b9960f9ac7fcb7ee2f694"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/CostumeWearableCharacterGroupMaster.cs",
+      "Sha256": "d40642da8f40356a675c365a3c5fc28a2d80767bfec62109ad0b318bf3a9efb9"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EffectConditionMaster.cs",
+      "Sha256": "62d5b578e29f14476363785617229b0d9efdefc0c32602a4bfce9035835ecef6"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EffectDetailMaster.cs",
+      "Sha256": "fd9bc22723af052d060490416171f0b2984ee86aa52aba04c492ada9dea40195"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EffectDurationGroupMaster.cs",
+      "Sha256": "7279e51c86bcde68233f686237c9310ede3866851a599be9976b5790f5c1a0e9"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EffectDurationMaster.cs",
+      "Sha256": "920f9087e6f6c0e9d9b1f81d11796c1f90ce1b3e004c97fa151b853e631333a8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EffectMaster.cs",
+      "Sha256": "8f003b526b8309b4a3df1e8bee849d9bc4c7816adc49d35eb25d9b29e321113d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EffectOrderMaster.cs",
+      "Sha256": "d3b5627c20404e5768b70edf3296ab9f52e2681205d08f5506356bf7ddf5b9fb"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EffectTriggerMaster.cs",
+      "Sha256": "d5f97a6bb0fa5f34ddf5e1d2f0dc12ebd86a4f838841cc7b8cddbc0c043c8b50"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EpisodeMaster.cs",
+      "Sha256": "6a46d5018ae9c8e9e31ef0f1f3f4ad973b8f27d8f1cc26580e7f9bdd61b396da"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EpisodeReleaseCondition.cs",
+      "Sha256": "fcbf2bef0fd28081b631b57988296aff1589fc6463348b488059e97a241b3ca6"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EpisodeRewardPackageMaster.cs",
+      "Sha256": "cea1dad5b44f3675966cc66b3389db487f1751100a7af27f15ec175552b772de"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/EpisodeRewardThing.cs",
+      "Sha256": "5799880b12bee39fd681fb631b874a38fbf335892ca1390a6cea104b048b94f9"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/ExchangeShopMaster.cs",
+      "Sha256": "49dd261a0b45858a6c771073a9fc43ed5accf830428d5d7c04ff4d0754f1331e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/ExchangeShopThing.cs",
+      "Sha256": "a9a98d60953c929e435b12843498d255b52c4c3416f78161fe3938639c9d40f0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/HomeCharacterVoiceMaster.cs",
+      "Sha256": "af1506cdc8f8bd85384e46ef6dad1a7279f2d892df535fa78f8d44fc1771d43d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/HomeSkinMaster.cs",
+      "Sha256": "2923f60a8634b3d9023e1528125073c7421501ee10a4f052c93e6a329c057baf"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/IconFrameMaster.cs",
+      "Sha256": "408bd06a566ea86436973902894a0d277e67404488df9d84da1c8fbf2ef073d9"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/ItemMaster.cs",
+      "Sha256": "a28fa5c490ae2d0b307415532f6199c07de5c1bc3c0487a0a8140fb2771dbcb8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/LiveMaster.cs",
+      "Sha256": "ef6cb44a39d0cf63baae1dc7918d5655fe61b268982d6b6b89e5713a0b1f8751"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/LiveSettingMaster.cs",
+      "Sha256": "a980f9b9834899d117d1615c8cdd1fe55d8d98be18719cc96347541d5c1a4cf9"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/MissionMaster.cs",
+      "Sha256": "d5f66071d8f4d91efa4d1e5f2b8e3c0fd3584df91e6fcaf2e3c13f711b7651d7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/MissionPassDetailMaster.cs",
+      "Sha256": "13d6ee7fb57b4e1f808f2ce041c60ebe5a0c8a79ef0971960bf108dcff2f5200"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/MissionPassMaster.cs",
+      "Sha256": "e6981b38a45140d85eb6bff3be84817ce42516ce95208ccce6b777af5e540b40"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/MissionPassRewardThing.cs",
+      "Sha256": "34dd684413292fe41f007871daca448aa262176f4a67d82800c38eb7aa7650f4"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/MissionRewardMaster.cs",
+      "Sha256": "3bc16120f92b0477bc9905c570e31d7035f97adc2bc244700a4c9cb6d1f989cb"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/MissionStageMaster.cs",
+      "Sha256": "ccbe0c2c80462c202bbb5014486aad0fda0b3ef0c4971c2f067cc5896cbb5650"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/MusicMaster.cs",
+      "Sha256": "2e07dd41dd4e4893dd8db6097bf7a7f8d18f2ce4c3aad1edda438c154ceee417"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/MusicVocalVersionMaster.cs",
+      "Sha256": "543a3ca7136873743fe0a27774c3c351626fd46c382655b12809ce65057e66d4"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/NameBaseColorMaster.cs",
+      "Sha256": "d85f79520d9bbe17c793e90e34888114679e5584ce629d014c7c1a715aaa041c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/NameColorMaster.cs",
+      "Sha256": "89e1efc38b83bc0b64c0b5f509ae22a436e238f5877583d7e5040f9ca99576f1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/NameplateDetailMaster.cs",
+      "Sha256": "8b4b86a8263ab0e0d4ae346e69810a95e906eaef8bc7d14702f4fa8e4141239b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/NameplateMaster.cs",
+      "Sha256": "1d7fb60e232da639ec5b0e2f312994fe1ce272d292e060fcdc709e6c6474202b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/NoteMaster.cs",
+      "Sha256": "a3e56b3cd9fba5c8a190a0829f4e04be9a9c74b6417790ebedee420a305ce1b3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/PosterCostumeMaster.cs",
+      "Sha256": "19878cc2ff49b6ab5a54f52eba1321ecf55f003aaa2c95378e36f0be9f61b5d7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/PosterLevelPatternGroupMaster.cs",
+      "Sha256": "8627459fb855d8d17068235047beabdea108988c38b93c206ca6aa4496185988"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/PosterLevelPatternMaster.cs",
+      "Sha256": "1e004acb76811d31d767385b2b2a1716501364469f57b1624fec60bb5c7aa6c7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/PosterMaster.cs",
+      "Sha256": "53b81d3875abc46461b7f8e8f250ac669aace80daf0d85ade0bfca10eefd08c3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/PosterReleaseItemGroupMaster.cs",
+      "Sha256": "cb329f74f519bd133685fdd6aea1996047fa083c6a2c92c05fcf233bcb1020de"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/PosterReleaseItemMaster.cs",
+      "Sha256": "0427a3b519687da44b70138ba0315536a015879f0affcb355a73d13712e53744"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/PosterStoryMaster.cs",
+      "Sha256": "f45c7b0821c9040fed8c1fb90585a7b55a6420877c3e56de1401cc7be2233750"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/RandomEffectGroupMaster.cs",
+      "Sha256": "a9c43cb891d6c3567642d8930c0fb59469dcb11bf5fdf9959c763f9fed9ad58d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/RewardRuleMaster.cs",
+      "Sha256": "294537a53763c981cf92295d5e17cdc7f1cfe9aeea77d43e612b7c41e8707296"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/SenseEffectMaster.cs",
+      "Sha256": "c1f140b0c8b9d5dfafdc2b4ac3fb73cf9fbeb846d1c2696593e3c0cbedfb7a41"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/SenseMaster.cs",
+      "Sha256": "64196a95d8d29a5b36a2331b584e49e9a334f054ff71b856e117aa998593271c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/SpotConversationMaster.cs",
+      "Sha256": "0022b022a7ac6ca73fbcfe473a6adfa70a66211b9f0e41f9bf43d78f881abcad"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/StampMaster.cs",
+      "Sha256": "6796ae00bc18b9221ee759f412e96a53a0d58aec59ca9c6be0e4600b075405bc"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/StarRankRewardMaster.cs",
+      "Sha256": "72894d0f9aa0a74eaff916cad7f90ef20b91c3fe1d6dacdc5e5f76ab346c0975"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/StoryMaster.cs",
+      "Sha256": "7886477237beee805a8392f91d1d7252270a98b93a2e222d64359fbbe7c8d3c7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/TrophyGroupMaster.cs",
+      "Sha256": "1ccc5833a4ec8adc3526195cea6a884b34250d3e69bc2b6d18870606dc729c8b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Master/TrophyMaster.cs",
+      "Sha256": "09fd4d7483596032ed9fb9539f1e66f611e5fd5162adbca19456ada2b42af1d2"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Missions/FlashSaleStage.cs",
+      "Sha256": "8fb7d6e11cad35462020baabf2532aa52df960f8ca5649cfebe4f99965605131"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Missions/GradualMissionGroup.cs",
+      "Sha256": "5e7dad810556f3b28cdc1a04f3209a470f5ca4f7cb1418b0483300b7bd98199d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Missions/IFlashSaleStage.cs",
+      "Sha256": "e2af94752584ee30d647a4bfd4a0a93a393814c4855bbefc2d291963d049eedc"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Missions/IGradualMissionGroup.cs",
+      "Sha256": "2c56b6f262bf3bbf9f9966fc035c69296603ac2f28eafa2f398ed9f2f0e93971"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Missions/IMission.cs",
+      "Sha256": "e5b38bdaf4b17d7b26e06c3452c63578426aaf63a7fbf2e0d0805128406990f9"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Missions/IMissionPass.cs",
+      "Sha256": "ee6639cef73d433dadbe8ca5824b20fc8f48a4beaf2387cdcccb3bc026901c42"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Missions/IPickupCharacterMission.cs",
+      "Sha256": "4df309c1557f6ce15b0ceadc968f2fbc5d5b3502bf5483980dbcff188b1faf1e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Missions/Mission.cs",
+      "Sha256": "c37c67930de1b69abe8951d245c5153ea2f3a75e0e0e085b9dd0761c186c8d26"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Missions/MissionPass.cs",
+      "Sha256": "11d8222369387aa4818bbf0364476a383cf6bf9f2baac58db13b6670e1048921"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Missions/PickupCharacterMission.cs",
+      "Sha256": "8bfb7ce4759403807b12a88ccaed088a530ba2ab60466a006f2be5d8af93cd8b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/MultiRoom/IMultiRoomBasic.cs",
+      "Sha256": "4086b39798af7e4c434113a8578182996e4bc42a557088b0a0addfe9d7cb9241"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/MultiRoom/MultiRoomBasic.cs",
+      "Sha256": "e3ea2f9e982a13520689e16d912ec1d9fc92b803a737797e6825c3c7b5b7e1b0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Parties/IParty.cs",
+      "Sha256": "1e344007da657212b8872ea7e96c5b78a677cd0282e5b6a01d80c9f152e23c56"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Parties/IPartySlot.cs",
+      "Sha256": "28ca1d613d7e4f726bf9bd7ac5d0e2cf47f17d08c7ac05dcddcd1d00e86340dd"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Parties/ITripleCastParty.cs",
+      "Sha256": "57517c149dcae74c10dbbc239724aa9f793e330788a6067ce502eaa1a80c0690"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Parties/ITripleCastPartySlot.cs",
+      "Sha256": "23c239f47312b15c6ecce843ec79329366655659321e844a0ff13ef4f29991af"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Parties/Party.cs",
+      "Sha256": "d289d32bfc89e2058af7ee43b8c3d7bd2238ea6034f150884023f9f03216b3e7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Parties/PartySlot.cs",
+      "Sha256": "7f6e237061049510c77ca871a23ceb52c5627eb4298aeb866bd7b76345d99c97"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Parties/TripleCastParty.cs",
+      "Sha256": "c5c3ce6f96cdee329f9962e09b351fd3986918a98e99239603d1d8f4e7fa2cf3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Parties/TripleCastPartySlot.cs",
+      "Sha256": "d764b763f6451dedcf3bde159fb7599348e9aef9ef605ed244843345d0650e47"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/Album.cs",
+      "Sha256": "6bceffd355949ace31ec1656831e0402f672dc43b9a6d40776a2ee1703d444cf"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/AlbumPage.cs",
+      "Sha256": "ac8078e6e56b21616868b73418104d3930c5e3d452149242445eb8f996bcc0c7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/AlbumPreset.cs",
+      "Sha256": "856b21f42bdc70da6e8ae2ecef63b70117080ab03825a055ee899c69b411fb08"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/AlbumTheme.cs",
+      "Sha256": "4bc64892cd94dc3827f978bd1fcb888b4a27b77b6a98ca571d58ace2d1938511"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/IAlbum.cs",
+      "Sha256": "01b2b25a2b557843a9f8505ca9eb9910908e1560347d95b00df8d450c474c0df"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/IAlbumPage.cs",
+      "Sha256": "5d7730ae86f57f36d8b341eb163e9e4922ac28a5d705168709ff4d767cf37a6b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/IAlbumPreset.cs",
+      "Sha256": "d2343461a0504d36b648f0e540f5d360235bb6cf5ae70a5160e89a6a078e88d9"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/IAlbumTheme.cs",
+      "Sha256": "6e1e9685c1d4296cb0c4b6b126b346ca79ae4b4c9db738f54cb33c4ec7cecf56"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/IMusicVideo.cs",
+      "Sha256": "fed5c7ffd47f84a45b4bc35e7ce0ee8e39e90a3ac0bd99127d602591361a8657"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/IPhoto.cs",
+      "Sha256": "cc8de3da306b543df53b14e035059b9322f68631b639c75176c3c8e27fda9e00"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/ITheaterStory.cs",
+      "Sha256": "6297ef620d4df9fc75e2225a8a2fdd9dbf3327493a32565d04c27cca1d6caa1b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/MusicVideo.cs",
+      "Sha256": "8343dce73262a70376079eefc44be9213a65b2aa097ed723b08b132543a59b78"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/Photo.cs",
+      "Sha256": "b6d412ba492ac0c9daf4607a5546e614351ac263812fbd97548d1f11483dcc8b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Photo/TheaterStory.cs",
+      "Sha256": "6fbd21592c9b1fefdcde9d3d718e9ad5aee9aaf0e7816d9160c1f6fc16917773"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/Currency.cs",
+      "Sha256": "957324b07d3cb807cbc6b524e9e363767f2b44527ab58ee8f0ca40e5aae514d8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/GameHint.cs",
+      "Sha256": "d37e9af9d5d79abb12430ddef9d3425ce0e1b4fba24dc0b01c2759fba04be3e5"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/HomeDisplayPreference.cs",
+      "Sha256": "f93a567708c66007ed18bee124034fe2a4ae84aefbd65a557199af037a54b6f0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/ICurrency.cs",
+      "Sha256": "039174892ec757f77bb13d6f47a5a30a5606d05d9d653e43f7617d94a851ab5f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/IGameHint.cs",
+      "Sha256": "f7d497fda75c8e737fe469b64db262832d2fbfc2c25227677ec9861914e57e9d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/IHomeDisplayPreference.cs",
+      "Sha256": "81626c05d217227ae94e127fbdb3a4dbcf28c6857d374f2db4fdb78913661f74"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/ILimit.cs",
+      "Sha256": "35e6fffa6174494f7ec0a74fe71f3bfbc0e5e7e1e50c9c38e4d3329de67beae3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/IUser.cs",
+      "Sha256": "1801f9b4f9ce28c1ea5ef0aa7b5e2c124d6c319e89766e4de3ae548fced91384"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/IUserBonus.cs",
+      "Sha256": "a02dcfdc971d929de3eb2dd6ed28e2d1549f4f7ee15fc0de570639418398c45c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/IUserPreference.cs",
+      "Sha256": "bd202b5c9c72b8bd8d16fe0f1c52b6e1d477f1e55fcb9dd079d58f89c5d55414"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/IUserProfile.cs",
+      "Sha256": "1e1780680de4488633eaaa9246ac35c51d242af8cdea82b8858daca6dabf4598"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/Limit.cs",
+      "Sha256": "7f9dd2a53e8e735f1c9b8c569d31a27bcb1dc6ca633c684f3e9b4473de5ee0cf"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/User.cs",
+      "Sha256": "c749e08e23486ebdc28a9045bc0ba24845bb5b4de3a45d340f70b9a6b01c8dfd"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/UserBonus.cs",
+      "Sha256": "ffb26dda48ac978631f75ec5c0bc6a173f411b5aba1a6c0115284b2883662934"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/UserPreference.cs",
+      "Sha256": "31b875af8af1ad46b88e6044cf75509a8cd4f8f03c58dd5a3636587b2bd0a80a"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Player/UserProfile.cs",
+      "Sha256": "6cc7d47f11ab10c96e654b9f20cdb2285a72b15389e3ba85d2f2a2dce8a21979"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/Bomb.cs",
+      "Sha256": "fff2a0ff13d0f9d5c7de5745682600dd40dff872faf1bb9fc0ff3ba2348b4589"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/BuffItemStatus.cs",
+      "Sha256": "8d973b22506daa5ff68ae5fd7425d293bf6746f04454016952412e9c9f927ae5"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/Costume.cs",
+      "Sha256": "32214bb1cc47cf7e9ad51121a4c4cf70c060c5ee6a8cb144ae4a6a8ee0c5f857"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/Decoration.cs",
+      "Sha256": "59721a9a8b048c8fcf42042dfff79e3d3f533bd5ec4f2835afa9fa93b449d90f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/FavoriteCostume.cs",
+      "Sha256": "5e07decbf7b508f2ca4e4caa001366fee1249c50f97af5ffa3fcd209d73944fd"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/HomeSkin.cs",
+      "Sha256": "b12f468ec000c98aef420c423898693bb463ae218816b6b328c42e6bcde32ed8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/IBomb.cs",
+      "Sha256": "6a2cf225bf4516349878c597b3c207eff966dba3d7e2e6825547404d3b71f6e3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/IBuffItemStatus.cs",
+      "Sha256": "897b1b7c45b43ad7d39cffea5037bbaf8583cfea0ee8be5d92f1b4a9f92c4289"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/ICostume.cs",
+      "Sha256": "6a94325238be1ff784659a165ff6f36a565a426e8eed2ed2003a313983675913"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/IDecoration.cs",
+      "Sha256": "5f86ee8894c971301025df950d151ab5aefdf6a5db3510058d01db590147a31e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/IFavoriteCostume.cs",
+      "Sha256": "d1dd6de96d530046dfafa4615b95279d5a89db99691bd2c4f7baebf06fa5f9b7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/IHomeSkin.cs",
+      "Sha256": "86f63ab7ba9b1b46694ebee16bedfbfae0abb69e56449a4a657410eb6c986ef2"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/IIconFrame.cs",
+      "Sha256": "22379752f9835132faf7d1abfc6da2b8e84c483522431fa418440f0c0fcdc9c8"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/IItem.cs",
+      "Sha256": "892f6ae11caa14f1e834bb9fcd92f6c8838c640fed5fccc1500c2487e8a71c2e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/INameBaseColor.cs",
+      "Sha256": "c2b05317bf4fad4edca8041676eb7df80ec8bfdf6095bc843ea8ad85679c98bc"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/INameColor.cs",
+      "Sha256": "0d3e1bc0c83a3c9fcc93c1385edba0d0666851e2f398f8b494b79796ea91348b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/INameplate.cs",
+      "Sha256": "e3c1b441dd4ec8113d0c618d4cc2de3d6f4e0d637fbd1a077db5ed6a63bb3423"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/INote.cs",
+      "Sha256": "09bd8f44242b5f69d07d14c71fbef57c6cf77b876c9bbd02da4ea6001408c947"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/IStamp.cs",
+      "Sha256": "bcb1dd69e0078de7f8885ac7fe3f02054ee55e2fee4906d370177f9a03f4bbec"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/ITrophy.cs",
+      "Sha256": "5560ca3efc51284974f62b0e4bd649be0274bf7c5c3e4a792da8004a4525e9f0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/IconFrame.cs",
+      "Sha256": "6415e3bb116489918c123c03dc2d45b42cda80d2dc77b34b72ed26402ff5b569"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/Item.cs",
+      "Sha256": "9f8da38c04bb6e4bce31c04d6d3acbd75a3fcb987d552791cb46a30d1e224d78"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/NameBaseColor.cs",
+      "Sha256": "83336a052bed7ee974998ce79861d7a08538aa6eca2de0062179f312dcb0bfd1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/NameColor.cs",
+      "Sha256": "ca20f6fe3f8bb3b334d52a0ea2728c5e350e1e5cb11fddc0b921f299b2510ad2"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/Nameplate.cs",
+      "Sha256": "26b21e129906bdfdbc4d7bab78f6815342f569a13596b614fac1732381062708"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/Note.cs",
+      "Sha256": "234ff8d2581f976ab3d1af8ee003dafd7859d745209714cd4cdf61c7cb9b5e82"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/Stamp.cs",
+      "Sha256": "48495e352cb4f996d4ee5d4e2ab1937d4d6620151629446b418436a28e6d30ea"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Possession/Trophy.cs",
+      "Sha256": "9259d54561dd65321fa6baba148fd597b4c25618c23fdafe1c7e003c55b68641"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Posters/IPoster.cs",
+      "Sha256": "fa738a7f5b32ab9655cfdc452f873214ccd0103cd97935fdeb23080fc517b5b7"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Posters/Poster.cs",
+      "Sha256": "53e8071adca8a9ebbe746e3818b9c18a2146ed8ae39733738110aa7ade2ea15e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Roulettes/IRoulette.cs",
+      "Sha256": "93c9d6149818259a801878c8e503287f7a7d3c0affc4043c27a03deb45728ddc"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Roulettes/Roulette.cs",
+      "Sha256": "6de8d27bc6fee648a4770ff6ac0c5af6d556b3ec68172c9ff4c60017522ab03c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/ExchangeLimit.cs",
+      "Sha256": "6ec26f37b3e3e91ad8827be1b56e700d0b2301f791c3cf198390caeafa9e6427"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/IExchangeLimit.cs",
+      "Sha256": "36837a57c72195c9c2dca43c7c2ff071484edfd000636e90bdad7f82ff113320"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/IJewelShop.cs",
+      "Sha256": "26beeb777edb429234f4f84c856ae87f02b14e1fc327cda8c06b0f46e61a22bd"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/ILoginPassStatus.cs",
+      "Sha256": "fc04638259bc084689b5f93266d14562debf5f39f6cea1e26241d66b05bdb513"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/IPermanentMarketThing.cs",
+      "Sha256": "ecb3526a5b03745cb044249d5255dd3ceb3cf34bb471297b93d5fccf2e5108fb"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/IStarPassStatus.cs",
+      "Sha256": "08e13f1d13f15f4216745fb69f4fc808bcbe8fef3c2c145445a33b62bb5004a3"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/IViewedShop.cs",
+      "Sha256": "22c15be408c898b0a57236192a4f4299088fc6b1194a3fb647cc7586f181598b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/JewelShop.cs",
+      "Sha256": "ce2f843ee717eeeb665268293f95f50a7942c54a966b0909b40c3c044531c035"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/LoginPassStatus.cs",
+      "Sha256": "b947f301adb060118554ad863da943563c47c34fc8de57f4ab7c7d1bc0d71430"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/PermanentMarketThing.cs",
+      "Sha256": "697ca2aaefbbba06b76a80706994db4b29247aa77068c98d14f391c5decdbe35"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/StarPassStatus.cs",
+      "Sha256": "6027c4d30e6de168356642f204553545da2189c4b7b875127e4fc80ad3677c01"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/Shops/ViewedShop.cs",
+      "Sha256": "8bd5650d5c2b8667848f50374b4edc8d8658db7aa248bc41ecff3b86e0128b1d"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/UserBlock/IUserBlock.cs",
+      "Sha256": "d28fe3e953d8edb2ae8f5fbd26388599665e73c6c6f519757a261750eb293dff"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Models/UserBlock/UserBlock.cs",
+      "Sha256": "54d3b0cdcba9ea5274fd4d46a3baf3663e6d5940a13d38da94d58804d5ba835f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/MusicBookmarkFlags.cs",
+      "Sha256": "8f66744ff8f12f45c6b5775a257abe235937ced25799b6087b3bca7c8aeb8bef"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/MusicCourseCertificationGrade.cs",
+      "Sha256": "638853a901747bdc6dc95f960474d809baff59667c53a9b5ef93513ed475e24c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/MusicCoverTypes.cs",
+      "Sha256": "7e98e71df531442ce50f9167c5fea1242a5b6b3411663df00f1959e9bc30dfb1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/MusicDifficulties.cs",
+      "Sha256": "4a5aa9c343e23c4c969897ff003f0fe286709abec6c53a101694e48125770f42"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/MusicUnlockConditionTypes.cs",
+      "Sha256": "e7dded275ffcd254862cc4af11c1d02c4d1e537c4da0d29ef059bbd3128c60e1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/MusicVideoTypes.cs",
+      "Sha256": "e3f0b953949ae8023716b46b57c8a7f85f6c315e9ab4d27037c0a0aec1cecea1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/NamePlateChangeTypes.cs",
+      "Sha256": "a43d596954027b99b5460235dbdebbf0fff81eba9fb2bdd944f4707b2dcbae7e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/NotificationCategory.cs",
+      "Sha256": "1d349693fb12ea5f5ebf2f5b552e98a66cf906b5d0450c8b75a870b65fd256a5"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/NotificationResult.cs",
+      "Sha256": "d6f840bddf9bd90df264a03dd384cb204d3a8c71e84d00069a78ce673e1ee614"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/NotificationTabCategory.cs",
+      "Sha256": "e5787acb84c644b23eb06399b6d99785d2d637e88b18e8184edc33a02f544067"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Notifications/AcceptFriendRequest.cs",
+      "Sha256": "49fd77093cda2677493c05eebaed8f9438f3f7cea9c567e934839b015b71cd09"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Notifications/FriendRequest.cs",
+      "Sha256": "85bc7ae9f85d67354fd5ab44344bbcf73875fb283d1963ef1987dd91e25281a1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Notifications/MissionCleared.cs",
+      "Sha256": "cdc9c3fed02689680588adeb3410cb5be011a161c1ae90a2de0bc62be537e25e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Notifications/MultiLiveRestriction.cs",
+      "Sha256": "0804839253f04f17a536d3825a2e3f3459db87bdaae692351ece057ec0675467"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/OlivierReleaseStatuses.cs",
+      "Sha256": "039d78340ebb3c351fdb421459f0a7b27cd0822ca8a1b53608affe1006ccef89"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/PageCategories.cs",
+      "Sha256": "4c55daea4f1c170053f1f4bf6bb911d73703d4a8cb817f3fd4f90a345cc3a82e"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/PhotoRarities.cs",
+      "Sha256": "f5e21becc6388fef14d507d5b427dc52a4ce38b03b59c71c30b5ab8bc7429a82"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/PlayTimeTypes.cs",
+      "Sha256": "4f3d4d31ccba43f3ed5be89367338a6ca431b9cad2624724b11fbb012f0f69ef"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/PossessionRarities.cs",
+      "Sha256": "95cbe5c0fb77f33489f7d09b47d2d750416c2abed40e391474ef8dde1c271c18"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/PossessionRarityFlag.cs",
+      "Sha256": "d58c549c6f8a046b64d4658d1ffd4397d94d7ceb0571ff0fdebf11af213bceda"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/PosterEpisodeTypes.cs",
+      "Sha256": "d9a3bc73bd91081c978b32c4e0062f452d2c5937e8f9f835a96b574adde3d800"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/PosterOrientation.cs",
+      "Sha256": "c53741fc97376ec144b13199eb81034a77daaefbb98dc34f323ad4ad88620666"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/PosterSubTitleDisplayConditions.cs",
+      "Sha256": "bfa4291d46f9f4971b38b0e514f15e99863ee425d86add5a9fe2e76314c09515"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/ReceivedThing.cs",
+      "Sha256": "e0c871d0a1f680f4219b4817e3e98bfc35ff629604c0c0bd86645f2c2ea604de"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/RegisterPayload.cs",
+      "Sha256": "6d9435352a1e42caa8170abd62d3ef6709dbe68400cabfd9e908c36b93877690"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/SenseTypes.cs",
+      "Sha256": "6103643b9a12b2e7a193a69826efabfc5c3e64528ea8e1025eeb2f2dfa313ee1"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/ShopCategories.cs",
+      "Sha256": "844e075af8213f412b953192ee5c899a40cffa17906e1e892c3364a6250285c0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/ShopReplaceTypes.cs",
+      "Sha256": "5ba71c66b322fe75df81d431e644334861a6a40455b5ab1c38e4d15d4ce4116f"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/ShopUnlockTypes.cs",
+      "Sha256": "e8860860436b55a77910e1decadf7e7d822990200c87aabca459b8af779b741c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/SpotTypes.cs",
+      "Sha256": "18b69e3943802c59b1464f0841e67073cf00ab09bd0e788e2d50285d78979584"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/StampType.cs",
+      "Sha256": "a9be35e1cc7298b644a1f396a83db11dc5635dd52b70ba7e434de5aca0cd7f1a"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/StarPassTypes.cs",
+      "Sha256": "c7a6581eb799363a5b4f9807abda1b8698d3afabc1553d48d363fbe12882e199"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/Status.cs",
+      "Sha256": "c0dcfc65133ee74aaa3bd6f0b51efcef1f38dda80338f36d64150fc1afc12ca0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/StoryEventPointExchangeResult.cs",
+      "Sha256": "5b5eac8a56fffbade832e586236b7f6b8adf8ec32d2e7e32b3ddbede297b0462"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/StoryTypes.cs",
+      "Sha256": "1045b51c36f6dcbf43614cf63026b4b518b21d67912fc3ee45d10f764d0583be"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/TabCategories.cs",
+      "Sha256": "411a1ffebbf6a8c3f5a2997c9f29d5b729bd1d7cd822adcc8feada8ff4cfc52c"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/TalentBloomItemTypes.cs",
+      "Sha256": "49e127af70a253d6ecef7e2b927e02c0b6ef0692554937306102f320cc09c37a"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/ThingTypes.cs",
+      "Sha256": "72546ce0c667b2490ce8a0c9994b05c362afe115e94174877e239802aa1aa916"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/TriggerType.cs",
+      "Sha256": "075f50514f792094fbfd17c7ef2586972feb6efb50365613328c499695b5f4ff"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/TrophyCategories.cs",
+      "Sha256": "acb8ff2089e1f377d1c77f1af25dd1a2d88bc04dae4aafa42963b59d2fe2fa8b"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/TutorialStatus.cs",
+      "Sha256": "92d7fd1f298eed43194d5a0439e6d6c90d33227177709b727dc173a50f12c9f0"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/UpdateGameHintPayload.cs",
+      "Sha256": "36edb9ec8cc1b6ac275250f7da50a06608f38f21efcf0df19527bab0a00af8d2"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/UseDecoPageFlag.cs",
+      "Sha256": "70779b016c7d65ed3b6cf3c1214d49a2de412ba3b0785acab64b25988e65f634"
+    },
+    {
+      "Path": "Sirius.Shared/SiriusApi/Shared/ViewedShopCategoryTypes.cs",
+      "Sha256": "6fc62fda11bef8ff9a58ae2b1eebd30776f4963e9fd003ddf0f695090e9b0e81"
+    }
+  ],
+  "Types": [
+    {
+      "Name": "Sirius.Shared.IUpdatableDataObject",
+      "ShapeSha256": "271618b135d739382b6f141b634a1809ea201dff3a13e573ee646b27cc6e9cb4"
+    },
+    {
+      "Name": "SiriusApi.Shared.Abstractions.IPartySlot",
+      "ShapeSha256": "212319fa5ecc148555879e1dd759d0717ebde5dfbcce2466b2467e2c74a7fb80"
+    },
+    {
+      "Name": "SiriusApi.Shared.Abstractions.IReceivableThing",
+      "ShapeSha256": "f6b7a9654da5c9173f256c4e780c42d7b3d089c9a46ceb896dc3da9487527404"
+    },
+    {
+      "Name": "SiriusApi.Shared.AccountRegistResult",
+      "ShapeSha256": "176d8a638d52a3b416c1b29763c174dbb5f71adf98b0d1f3cdb29c67aff1b10b"
+    },
+    {
+      "Name": "SiriusApi.Shared.AccountRegisterErrorTypes",
+      "ShapeSha256": "5c651c68e0fa486d83b847e193d1c790ce76c0f0c12572d40b09e38616f51cf8"
+    },
+    {
+      "Name": "SiriusApi.Shared.AchievementRateGrades",
+      "ShapeSha256": "8cc23915a7e15a2b700a0bd66f431d0f86cc33f826e5b944055eee169ed68035"
+    },
+    {
+      "Name": "SiriusApi.Shared.Attributes",
+      "ShapeSha256": "dcfe469c28f921c0a8bc18eae3a89fb4d1a387efcb3b371f3fdc70ba21ed1cca"
+    },
+    {
+      "Name": "SiriusApi.Shared.AuthenticatePayload",
+      "ShapeSha256": "82cebe4a582b7869c7d775829a5b2c4891bcc3d33cc4dc98340bad432e513718"
+    },
+    {
+      "Name": "SiriusApi.Shared.AuthenticateResult",
+      "ShapeSha256": "25c15cc9fd5fc58dfabde0c3b636350457a15f3f5882a7e41d399c0ad20bb904"
+    },
+    {
+      "Name": "SiriusApi.Shared.AuthenticationProviders",
+      "ShapeSha256": "3e8b9acb0cded8e0878f31b65cd048bbf05e92d7391ae38697f264eec76ef769"
+    },
+    {
+      "Name": "SiriusApi.Shared.BanLevels",
+      "ShapeSha256": "a09289e3db7bcb4339abcad1f00ab4b614fd2200cfe4e90b569b3bcc522b9447"
+    },
+    {
+      "Name": "SiriusApi.Shared.BloomBonusTypes",
+      "ShapeSha256": "05cf23f5f67a4bd2f699a9e4992d916cb62b8684dbe71a7e5030295f373ad551"
+    },
+    {
+      "Name": "SiriusApi.Shared.BonusAbilityEnableFlags",
+      "ShapeSha256": "c7cb8fa440e6beacaa1ee15f3ca885f82ed2172fd4f8dafb50af82b3cfd4a560"
+    },
+    {
+      "Name": "SiriusApi.Shared.BooleanResult",
+      "ShapeSha256": "ddd529cd1d22545be7e4ddc6af2f51b3501cfe23a6a4888eb5edb1fb3276313c"
+    },
+    {
+      "Name": "SiriusApi.Shared.BranchConditionType",
+      "ShapeSha256": "3ce510e4e94eb914a23f7351da45e0d6a8a98585d883afe5720901ba63e0df72"
+    },
+    {
+      "Name": "SiriusApi.Shared.BranchJudgeTypes",
+      "ShapeSha256": "2c818721b194d7c9496a0d94f28fdb5c601515ab3502e5f643a5bdaec09b03cd"
+    },
+    {
+      "Name": "SiriusApi.Shared.CalculationTypes",
+      "ShapeSha256": "763900b8ebec8b4e39615fe772d0c30c0588e521819479fb04ca4aa409b4d0d8"
+    },
+    {
+      "Name": "SiriusApi.Shared.CampTypes",
+      "ShapeSha256": "2e6e698bf3982cce52f275a666be6b583d9596d5268aaafc16e8e791993ee9f9"
+    },
+    {
+      "Name": "SiriusApi.Shared.CampaignEffectTypes",
+      "ShapeSha256": "895f2cb89ff15fbcfe0bf26d472215f7279c462d96876e92741b21ae83259cd0"
+    },
+    {
+      "Name": "SiriusApi.Shared.CharacterBaseTypes",
+      "ShapeSha256": "c3dbbab564547f873c88595ac62173a8355af7d60916f1d03be69e03a94e0af5"
+    },
+    {
+      "Name": "SiriusApi.Shared.CharacterEpisodeOrder",
+      "ShapeSha256": "21a6997814b083b3d733668a8024809b7ce33b6b793bbb75495e0d7c13a5307e"
+    },
+    {
+      "Name": "SiriusApi.Shared.CharacterRank",
+      "ShapeSha256": "8376d96a3edb2c02dae40bd70e40f63b1a01d067a0eed962ede0ea14e9ce622c"
+    },
+    {
+      "Name": "SiriusApi.Shared.CharacterRarities",
+      "ShapeSha256": "e7815489e1e2819858fb6bf708c2912eb4fbf6e7198c6473817e53b8de9c72c1"
+    },
+    {
+      "Name": "SiriusApi.Shared.CharacterSelectionTypes",
+      "ShapeSha256": "414ed73f2a16163d126d9c7f279642c2d8b80235a67240f8381ecb0b0f743007"
+    },
+    {
+      "Name": "SiriusApi.Shared.CircleBanner",
+      "ShapeSha256": "3ea0ac838951ece3b9f6d0a4fbf7a328af0e1f81dff44b9068a1cbfa3f9f0711"
+    },
+    {
+      "Name": "SiriusApi.Shared.CircleInformationResult",
+      "ShapeSha256": "07d014ea9d5ac282b8f2fd7268a602588276f3ab1f2203f4fff3dcdb9c2ae361"
+    },
+    {
+      "Name": "SiriusApi.Shared.CircleResultStatus",
+      "ShapeSha256": "4ded5d43caa5425bf6b444c2ba5e91effa15fc7b702bfc358397265b7e8e1186"
+    },
+    {
+      "Name": "SiriusApi.Shared.ClearLamps",
+      "ShapeSha256": "403cc64601e67cdaf622c50a8a73b455469347992c69eac1c2a808cd3e67e385"
+    },
+    {
+      "Name": "SiriusApi.Shared.Companies",
+      "ShapeSha256": "16349dd435691388121df70823ff95361d1e23ce9f7cacfdeb7034c74383d7e8"
+    },
+    {
+      "Name": "SiriusApi.Shared.DeletedDataObject",
+      "ShapeSha256": "c2dffebc3d9b399a0f5d1a4863c87ea221c128bc97260987ba1ae2434c2340b3"
+    },
+    {
+      "Name": "SiriusApi.Shared.EditTypes",
+      "ShapeSha256": "7b47ee0003f72cad8453e910bfab67cc7932e0808cf1ee9a905f3d4322cfa818"
+    },
+    {
+      "Name": "SiriusApi.Shared.EexternalPaymentResult",
+      "ShapeSha256": "bc6c9a11ca26b78f119c1d2130b0767a7411f8be49daaa9fda9a744901f751e0"
+    },
+    {
+      "Name": "SiriusApi.Shared.EffectConditions",
+      "ShapeSha256": "913151c004440fbe4d9d0c0607c50b4f2fe3ca9274228fd73e2deec96d307773"
+    },
+    {
+      "Name": "SiriusApi.Shared.EffectTargetRanges",
+      "ShapeSha256": "9be39579b2b5234f5a16e913a2c1b54844bc740338a574758cacedbaa2559bf3"
+    },
+    {
+      "Name": "SiriusApi.Shared.EffectTypes",
+      "ShapeSha256": "a33d3862994538bd338694be6ed7aae9272298c3f8f7a17cb9c2001f217e33bb"
+    },
+    {
+      "Name": "SiriusApi.Shared.EntryTypes",
+      "ShapeSha256": "a69f5336f34b28c523b46d962ab10d32862a4499dea838c89ccaf7436f22f86d"
+    },
+    {
+      "Name": "SiriusApi.Shared.EnvironmentResult",
+      "ShapeSha256": "5ca63c3d9d6cc4fb2549a7d4621b8df6c13b3a5a16abfcc15842c45eb8676a4e"
+    },
+    {
+      "Name": "SiriusApi.Shared.EpisodeReleaseConditionTypes",
+      "ShapeSha256": "ced299f5eca5b27e1e10b609a1f5aeaf6cb2d1bbe5293d4e255c31e394836219"
+    },
+    {
+      "Name": "SiriusApi.Shared.Fault",
+      "ShapeSha256": "8220dc0f3b3a530386f1ebc16169d38d7da19013d836b0742510f74c664951f0"
+    },
+    {
+      "Name": "SiriusApi.Shared.FireTimingTypes",
+      "ShapeSha256": "ac9f87997d3ec0d4f26a3f590bf53ac3733a83a478336cacb07b7debadc72aa6"
+    },
+    {
+      "Name": "SiriusApi.Shared.FriendListResult",
+      "ShapeSha256": "e63bcc62cb23b9dbf42d54592d705afd7673ed9ecffb7745112d6d89a31c3d2b"
+    },
+    {
+      "Name": "SiriusApi.Shared.FriendResult",
+      "ShapeSha256": "5fe604d8581896cb6c977f6f26a5dc9e642d6a6445d121f29670785640e6beab"
+    },
+    {
+      "Name": "SiriusApi.Shared.GameVersions",
+      "ShapeSha256": "18e4b1eabf43e450d1c480f579342b89244da2f80ba4852e63c9148af8f96091"
+    },
+    {
+      "Name": "SiriusApi.Shared.HighScoreTypes",
+      "ShapeSha256": "bb3447b3f7d527282927e6af2f645aaaeba4952438395ce914fccaa3bcd4f349"
+    },
+    {
+      "Name": "SiriusApi.Shared.HomeBGMSelectionTypes",
+      "ShapeSha256": "82042c6a9b245baa6f83fc63be5dab72c04f72eaf9204e96df415165e926d7eb"
+    },
+    {
+      "Name": "SiriusApi.Shared.HomeCharacterDisplayTypes",
+      "ShapeSha256": "84e64163cd2cc2db3fc8076a02c9658a6ce50a06c757fb12d308604f2e243734"
+    },
+    {
+      "Name": "SiriusApi.Shared.IDataObject",
+      "ShapeSha256": "63c5a2370e6002493fa90ab73883085c1efd90c392db8dd8e91527b7a1b9931a"
+    },
+    {
+      "Name": "SiriusApi.Shared.IMarket",
+      "ShapeSha256": "1a679720eafbcd04cfbce5b6cb3ae20330a9299f14e1e04b348aa6169efcc714"
+    },
+    {
+      "Name": "SiriusApi.Shared.INotificationObject",
+      "ShapeSha256": "a252fcc17263b8bdb213dc694d97c3e6118093128d9306cb25a38c4d12162889"
+    },
+    {
+      "Name": "SiriusApi.Shared.ItemCategories",
+      "ShapeSha256": "e224179ed2c2c29e27c8134621b76953731eb87f573a737cd724774491b8d50c"
+    },
+    {
+      "Name": "SiriusApi.Shared.JumpTypes",
+      "ShapeSha256": "5d23477b9e6fd9664356e7f1a38bdff34f40e968657c0d213f84eec224f57574"
+    },
+    {
+      "Name": "SiriusApi.Shared.LeagueClassChangeTypes",
+      "ShapeSha256": "8ca02ceb38cbc1c189fe5418124ddaccb071b21eba8bad13fbb23768f6125745"
+    },
+    {
+      "Name": "SiriusApi.Shared.LeagueClassTypes",
+      "ShapeSha256": "26955164c441e598a9a6745021dcb6560aea6586dd14e7cb6d68c83a7f9ab77d"
+    },
+    {
+      "Name": "SiriusApi.Shared.LiveReleaseStatus",
+      "ShapeSha256": "810ec8e841ec64173cb1c394c2213bfec6f92b6fd43471682e07b546cb996231"
+    },
+    {
+      "Name": "SiriusApi.Shared.LiveTypes",
+      "ShapeSha256": "13a18a46006884b62997f29ad7cf99bb28f9ba15ae01be3038b2979a09cfd84c"
+    },
+    {
+      "Name": "SiriusApi.Shared.LiveUnlockConditionTypes",
+      "ShapeSha256": "2476315995cddfe3a90e723ee91500dce4d0cc72f5eada9d472b39e998eb7ec4"
+    },
+    {
+      "Name": "SiriusApi.Shared.LoginBonusDetail",
+      "ShapeSha256": "209d04f8e1b7458e80ff85ca9e7ae0521251937b8504e6e01e70384e2cd7f0bb"
+    },
+    {
+      "Name": "SiriusApi.Shared.LoginBonusLayoutTypes",
+      "ShapeSha256": "c2873e2a27f2c610c5227d6ae1c1a9009ebd5b20a2db1941ca43e965cae8a307"
+    },
+    {
+      "Name": "SiriusApi.Shared.LoginBonusResult",
+      "ShapeSha256": "f03f7bccb1f276a30da6fe54e5353ae15ec60b8a704d73253f433485fb8a7c9d"
+    },
+    {
+      "Name": "SiriusApi.Shared.LoginBonusSpineDetail",
+      "ShapeSha256": "aa4b66d287531f9e3501c4334ea1d5c9dc8b2160acdb615a7e70af8bd58df6b3"
+    },
+    {
+      "Name": "SiriusApi.Shared.LoginBonusSpineGroup",
+      "ShapeSha256": "ba18cbb75a37f240b0fdbb8e249a690dd1d6251d7b4b37c4b397c8aeab2d174f"
+    },
+    {
+      "Name": "SiriusApi.Shared.LoginBonusSpineSelectType",
+      "ShapeSha256": "9e2e533a9176ba61f7123267324278aa8697345baab6d15ceaadb931f05ea791"
+    },
+    {
+      "Name": "SiriusApi.Shared.LoginBonusTypes",
+      "ShapeSha256": "724c134fd27c19fab95e667dfa3a5be9e5b61b2eb0c85b54f10f5764075ca271"
+    },
+    {
+      "Name": "SiriusApi.Shared.LoginPassNotificationTypes",
+      "ShapeSha256": "d98bb22744e840d3365ab36c5cd13361a183a3600f06a53e2164ac4aa3aa5daa"
+    },
+    {
+      "Name": "SiriusApi.Shared.LoginPayload",
+      "ShapeSha256": "82293b7d3bd8a93bc2c61ca0559ba708d34ca745e712a281dbbe41f3f15b775e"
+    },
+    {
+      "Name": "SiriusApi.Shared.LoginResult",
+      "ShapeSha256": "9c1af8e48152d09221549d398bdb0881c6cc20a0aa1d2c170d3609a68fb96d12"
+    },
+    {
+      "Name": "SiriusApi.Shared.Market",
+      "ShapeSha256": "20c9e9d5869881d1fec4b9351c6f5730abdd5c9e196471003874512696367f9e"
+    },
+    {
+      "Name": "SiriusApi.Shared.MasterDataManifest",
+      "ShapeSha256": "82dadbce66321f626175ea803b35474a5565df7f81ab6a876c9dba5f5539829c"
+    },
+    {
+      "Name": "SiriusApi.Shared.MissionCategories",
+      "ShapeSha256": "61564090f68f61d0267efc269b8364bbc4e260a13558d77b931ff558a9088380"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Accessories.Accessory",
+      "ShapeSha256": "7aea222d7cf5f1d9f258ed3067a910c84103a4d7b25299f697af16325158c716"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Accessories.AccessoryAutoSell",
+      "ShapeSha256": "546d059f2c9efbdcd7dfa175bbf834ac4978eb4e99e56806a2f654671c387358"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Accessories.IAccessory",
+      "ShapeSha256": "e018a5726bc0401c9942b5c82a5ff638e355502c0138a432e7fb34efbe2f9591"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Accessories.IAccessoryAutoSell",
+      "ShapeSha256": "6f9976ef02e328ef8cb6b3290662653f323ffab32912995c2917058e8fa95c1a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Accounts.ConnectWithAccount",
+      "ShapeSha256": "fd6fdc2ec686499da99aba7d3b170ba20d986a824cccaf56074940542a8d7fa1"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Accounts.ConnectWithPassword",
+      "ShapeSha256": "c3372b5bb75ececb261a7d004af381af4f8c95ec65bf847a7d33f4cd11752838"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Accounts.IConnectWithAccount",
+      "ShapeSha256": "ea013dd327570fb64938473e922ab4e0bb0e2ad5a0c13407f0ab507b4dbaa3eb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Accounts.IConnectWithPassword",
+      "ShapeSha256": "0da5527889e9f40892439e03c39ab61491fbd19a92783985694906254ec66cdb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Accounts.IRestriction",
+      "ShapeSha256": "93cb372971d61aadacd9c6cd9191bb7e7adb6f094d963e733f86ca82ff8e0d4e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Accounts.Restriction",
+      "ShapeSha256": "0d56c1ce4cf68ecfcd4aacdf281aa55d4ace374bda4bfa0c25bdc961aabefcf4"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Characters.Character",
+      "ShapeSha256": "e179d5b336f8e2b620e617adfe86adb2e43d4a0aba7ac8b20ad05eab5a21c2b5"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Characters.CharacterBase",
+      "ShapeSha256": "cf312b268788c6425c727789e3f142f2cc725db17df9e66a9abcee97fd659c63"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Characters.CharacterMission",
+      "ShapeSha256": "6e802c7a5c44ed4fe30455db0772ea9755cd25a4516f2f9f6f7e439c57e6e6f4"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Characters.ICharacter",
+      "ShapeSha256": "91c5ba2010c2edc17839101be1418381adafd25943ea1e5ded31a4feb3c3f277"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Characters.ICharacterBase",
+      "ShapeSha256": "1cc8a8259d93398538f7af9be50667055d4ddbe3f86daf5b457a8b0aa9315169"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Characters.ICharacterMission",
+      "ShapeSha256": "993658a366eb25fdded3aa070d9c01fee8daa3082c750402c461b16a7a01c96b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Characters.ILinkCharacter",
+      "ShapeSha256": "72b29d1c1c0014006de583a7b995735dfab73e818796859d8b16e4b86c62b100"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Characters.LinkCharacter",
+      "ShapeSha256": "e7f160823b6bd15292fc667deb97726fe9d607b4eec0fca1b9efde5642752a48"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Comeback.ComebackCampaign",
+      "ShapeSha256": "08aab2034c0f433eb6e52d0808b80ee86f107424a1162ea64f3ecf1f8f3a3460"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Comeback.IComebackCampaign",
+      "ShapeSha256": "07df5c8802ea34bc7cd5dd526279132018ccbfed1693dc82ed21b5d5e6ff5917"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Comics.Comic",
+      "ShapeSha256": "d6ab94538a3772767c5d93472c6e8f03f047d20b40b1c2de412d82ae0dd64bf7"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Comics.IComic",
+      "ShapeSha256": "cc88fb4cb568923fb6dac59145a147844cf9a2449bfd8762df146c0f90912fbe"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Episodes.Episode",
+      "ShapeSha256": "b11efb27cf7662f9e84f35943666cbd0f2e89eacefcf7c720185bed9a58df1bb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Episodes.IEpisode",
+      "ShapeSha256": "3743f28e9433f8eaad1ccd5f4ce6cc632cc34b737dbbbd58eaac19d2c5e626c4"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.CharacterPointEvent",
+      "ShapeSha256": "1b0569a7ac4ca6b5626ca3a14e571e91c99919f391b6698959f93f92c1324a9a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.CircleEventMission",
+      "ShapeSha256": "cf29b99124e927e7de45dd21bcafa563d8156f71a6980f4e2896d2ade40dc0d3"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.DugongRun",
+      "ShapeSha256": "5a5ca4d4f67373db2c6d2ee10cf0b46b9294dbdb99daa0632cf88608a84a7bb5"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.Event",
+      "ShapeSha256": "6cab908d66b646d3f0319455c5bb626e667a35f55fda7b07247e908cf2e54e46"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.EventBoxGacha",
+      "ShapeSha256": "7f7439cdb866a06ee1a7726e19b7fdf47ec6482149b18f60edabe74b3daa54bf"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.EventBoxGachaBoxThing",
+      "ShapeSha256": "2222e8e92cad1762de32b8941eafabdc1a143c18ba6d387ade173ec7b7920c03"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.EventCamp",
+      "ShapeSha256": "82c72c42d0ac52e618e0cdae93aafde95b717d981d05e0310b7bd7c55c35507e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.ICharacterPointEvent",
+      "ShapeSha256": "dcccbda1e4d843835a61ba59aba752f50bf4672eaea71204c86af5499ceb93a8"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.ICircleEventMission",
+      "ShapeSha256": "c3c81a412d89135ed52e572ff44fb94c7d5614aec373122da08a736d230bbf7f"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IDugongRun",
+      "ShapeSha256": "b18752e85dc4aa531d50a49b625f6ae564e5e772d71bf757e584657c6bc85fe7"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IEvent",
+      "ShapeSha256": "14672fc5a44713f05e042da0cf628d040437b632ae24abac27cedf69457d1409"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IEventBoxGacha",
+      "ShapeSha256": "6de3644432f56ffb38e3fabcc00ca1d11a227d1b1c4406219202c1bc436a40cc"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IEventBoxGachaBoxThing",
+      "ShapeSha256": "44eb6c6db4d48e233e53e87bf0bbe0ba1d186ebd97cde83a86432e6b046172e0"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IEventCamp",
+      "ShapeSha256": "7350fc58ccb2e33d4e327b15738fa81bf15231f8c5fd90460031771ad1cae2c9"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IRouletteEvent",
+      "ShapeSha256": "30e6df9ac1e1605fb12c9e8cae9107715ccaff5ebad8fcf35c03fd9bd9d5e469"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.ISpecialEvent",
+      "ShapeSha256": "21391f51a183d343dc9c6fbc0f61590606003a07c93d8c767a700c27a1083a7f"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IStoryEvent",
+      "ShapeSha256": "9480454e44cc1e1464dd3194cbb55fec22b7ffcc26f6274785ab49cb8d9253a8"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IStoryEventCircle",
+      "ShapeSha256": "8ee71ebced2f6a7be78f8d97f82e8168fb74223bde6af833475b6387e11fdf14"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IStoryEventCircleMission",
+      "ShapeSha256": "0cf483c39d9b321c2d6e871b670332a8c9f5630be8be645d721866361d025ef1"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IStoryEventCircleMissionReward",
+      "ShapeSha256": "a7ea23bfc34180c6e4cdb9075f3f24ae812541e280afd4c4c62b8b1c81a5fc9b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IStoryEventHighScore",
+      "ShapeSha256": "1342520876cd2a9723f14c56773d397ad9a70e9da66f1120ea8842dbd860553c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IStoryEventHighScoreBuffSetting",
+      "ShapeSha256": "113da85822bf0b0494597d13bb09356b7adc4948ad3d453d394cca9e838f87fb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IStoryEventHighScoreParty",
+      "ShapeSha256": "68dcf4e5af45517520391ca5032b4af82f36e4a1e84d2c9410132ca5425f4beb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.IStoryEventHighScorePartySlot",
+      "ShapeSha256": "eae6c86a6673fb6a78c83bf8d8698c9f22b2e2426f6ef0c4531af2d0281a8d5e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.ITotalPointEvent",
+      "ShapeSha256": "0bba1cc944986c219cd5c8dc03445f80f24d7841b5a532d54d570c01c8e56471"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.ITournamentDetail",
+      "ShapeSha256": "fb77f789eed925d017f4feb61669a90d0efb3f5193be629d4b64d2d90cfb7267"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.ITournamentQualifying",
+      "ShapeSha256": "ae0810c26fea09bca90713f5750dff17c336e4182113dd5c93fe1934ecf0641a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.ITrialPartyEvent",
+      "ShapeSha256": "80508944e8a2a51b2a2b9785f490c0b2e54de54e6f6b84b9d992c4a3eb82b1b6"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.ITrialPartyEventStage",
+      "ShapeSha256": "d46681e97608a664be90e3b5a10483ee639b0d1f32076cca56f19c3fa5b1c291"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.ITrialPartyEventStageParty",
+      "ShapeSha256": "e91915c3c0e1cdd1daad27d38a3cdadec88fa6d3f87aa4c969f0ad4931d04492"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.ITrialPartyEventStagePartySlot",
+      "ShapeSha256": "dd7636783b0bf4a028acfd5365317c5bcf05aa592a18c3133b303cd8fbe76592"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.RouletteEvent",
+      "ShapeSha256": "b040b78f53a6a20059a1b0cbe2a35901c2f9a41085db378c7a353e5317a80bed"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.SpecialEvent",
+      "ShapeSha256": "e314e24c082707d948be1f171972ff1aac605020f931f65daa6b570febb96641"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.StoryEvent",
+      "ShapeSha256": "8572b1698dcaa4e9032b3bdd8c012882c1343ad1524b1b5c8271e4ad1dbbb164"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.StoryEventCircle",
+      "ShapeSha256": "cf33fe2d415114af7792dd001fd9b2cc7cbb707196f06edded16d3930a0d3a83"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.StoryEventCircleMission",
+      "ShapeSha256": "ce4921f18e700d83f36aea27101b457af71839e2f866d7ad63feefe55b72839a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.StoryEventCircleMissionReward",
+      "ShapeSha256": "aebd450bc1348ae59b13c05c2f1cca6ca1aff6642218bd388b4700529996d6ed"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.StoryEventHighScore",
+      "ShapeSha256": "cb909f10938450ddd8e9725efa24f81f74781e8fcdccf6edcad5e2f34aee378d"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.StoryEventHighScoreBuffSetting",
+      "ShapeSha256": "b969498dc6fc9fad4229d8ce7791806c42eec55dba93f3883fd586ce88ceed47"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.StoryEventHighScoreParty",
+      "ShapeSha256": "595a10394035497c378fc327ef52bb5ec7326b05b0a78651ff3272d37d0c6e8d"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.StoryEventHighScorePartySlot",
+      "ShapeSha256": "9dd9e8a618c40d18072b3c8744c81cc9a7c43bafd4bef70a4f0979a7bbd50529"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.TotalPointEvent",
+      "ShapeSha256": "bb259b7273d6a3eb153741f6f25786d4823571c8d7b7caef6a079ce9c5cf9151"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.TournamentDetail",
+      "ShapeSha256": "c64d4093f457ac0296624179b015d5ec9b0de09926044b169c1681ddb225d665"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.TournamentQualifying",
+      "ShapeSha256": "9b26eed1bafb8b810c5bfb159fbc100b9edba94c1f2a944d0c7f835d75b59d42"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.TrialPartyEvent",
+      "ShapeSha256": "60a263580ac251f5128022170f22ec576614ec83c8acb1a52dd992d2a651a60a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.TrialPartyEventStage",
+      "ShapeSha256": "fc02e061f6046700d36642aebed858b90834eb77a6fd8c8788b4c7a47492ceab"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.TrialPartyEventStageParty",
+      "ShapeSha256": "d88129d9097b0048457102ad15ff1d14d31947003ae6a4dc6aef29df7cbb9de0"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Events.TrialPartyEventStagePartySlot",
+      "ShapeSha256": "4762f818f91a91f2a1bc3524b188182cda3ddd4c726101b9f83f51d6695c5f6e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.FriendInvitation.FriendInvitation",
+      "ShapeSha256": "46900993d5a09015cfdc7e86a3d5f90626bcc1fc4a3302ea6c9000489bb6edb4"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.FriendInvitation.FriendInvitationMission",
+      "ShapeSha256": "38b479b1d58a8ceecc778ca8dae8602309305aee4458f45dee012876ec4f3315"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.FriendInvitation.IFriendInvitation",
+      "ShapeSha256": "097ca844b17e059e38856bddb966fac7b8f1025d0e63b06aa8df7ece19752a45"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.FriendInvitation.IFriendInvitationMission",
+      "ShapeSha256": "534fd16172262992f4fdcda9a2c80848483650f0f61ca7facf75d066868a3978"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Gacha.Gacha",
+      "ShapeSha256": "5457699cc7e1d5122fb757105fd068047dbc6e4390c2170688af8a1cc82e73e6"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Gacha.GachaReRoll",
+      "ShapeSha256": "7afdcf2930b3f762fe17991c3e50839f4725aaacaf44cbe4739ef5b481e9884e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Gacha.GachaSelectedThing",
+      "ShapeSha256": "d993131f4f1f84b4392e1f9522e2bfc08506b047ab2329398cefa5e6c6f84789"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Gacha.IGacha",
+      "ShapeSha256": "fa0821749be8b2349b4f84c5f6bf0ee30a46a602c67e2eeb5f023466348178ea"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Gacha.IGachaReRoll",
+      "ShapeSha256": "5a92502e12aa5164697bac80a5fef453a4dcc0b6115e6dbd28ca7b73eeb1ffc6"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Gacha.IGachaSelectedThing",
+      "ShapeSha256": "814bca9a42afa2e96079a086d141af6fa9b18c3b62678dffa3063c0730c25c36"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Home.HomeBGM",
+      "ShapeSha256": "ef52626f75688757457758afbde4f4b98df1cfb068edcb1b6840a2b18227e4f7"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Home.IHomeBGM",
+      "ShapeSha256": "ff6fb238aa730c88d76b3a36411f2f9f5cc6b0a764a932451a266c4d4c47fc80"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Home.ILottery",
+      "ShapeSha256": "c76fe7618af4a4d6f81f33cb53b8ca003db17f3215d85e585e16a137c3bf7a49"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Home.INotification",
+      "ShapeSha256": "0c899862fac94dce4236e8166e602ef84a915c61fbecaefdf384af02779f4672"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Home.ITimeLimitedControl",
+      "ShapeSha256": "8dce30ecd0e678eb117afd214095e70af3559ce525e8147766a84ad1030cae51"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Home.Lottery",
+      "ShapeSha256": "d6dd7ad321c8f1d67447d750b737a57fe6e55ee7482c8aed38fa50b4acdaf9c7"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Home.LotteryPriseResult",
+      "ShapeSha256": "3edd75590341e333085d7ba3c9960f1b0497a360d0f343ca4a9e2e48428cfde7"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Home.Notification",
+      "ShapeSha256": "8b61ed17af96aa5c23a1a21e553854c20e192aa065d18446485a9ce7b176b80e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Home.TimeLimitedControl",
+      "ShapeSha256": "cafb06d7af596ba60cd20fb3162ffae66a74eb366605a15901ceeb1b7d4cdbd2"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Inbox.IInbox",
+      "ShapeSha256": "3b3f60921a4afb888d2ab150421f3803f6fbcf74d7ccf9253a84f9e34a3ff826"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Inbox.Inbox",
+      "ShapeSha256": "22eb124505fc7cba85e528f51804934e36b0d3c82c33d7347e369e7684f984e8"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ILeagueBasic",
+      "ShapeSha256": "8fd334694fb53cf4434b51e08e0a085d78e95130236a4200dad64c19e9bec7b3"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ILeagueGroup",
+      "ShapeSha256": "d0f9505f230e2350b76e30c6e82536cfc506ef793d4daf989aacf9e6646b6a35"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ILeagueGroupMember",
+      "ShapeSha256": "eb213b7c8ae24f1e0e17aa296d343df08c55c120c2ace4ae778121de42c7bed0"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ILeagueHighScoreParty",
+      "ShapeSha256": "50faff4bc6c1d2c7092eb4ece8ea738abbfa047964df38a5ae0c7f9e00b33123"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ILeagueHighScorePartySlot",
+      "ShapeSha256": "4aa3ffc957b6cca7c75983fb1c2b21e55cc54dc50e67ee815a32bce40f7b1b62"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ILeagueHistory",
+      "ShapeSha256": "309b44e576397672f7533a83239d685a3a47f82463e6a1dd209cd3f5d2278e84"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ILeagueSeasonResult",
+      "ShapeSha256": "6bdc075131591c5893e161ffe4e826e47e3d709708ba32da02b2d06cd32ca650"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ITripleCastBasic",
+      "ShapeSha256": "6955796f49a4d6162f833f74c533e8e4fcc84c91bb6798a2cb82a47e17e4eab7"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ITripleCastGroup",
+      "ShapeSha256": "533cef1d355dac4b17d7d58df3edd7f39887b4cdf4ba63377d000dd553aa148b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ITripleCastGroupMember",
+      "ShapeSha256": "dae8691727c5e410a0d11b0875ea3126b1a26e3b299ec1105c97eec437ed8512"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ITripleCastHighScoreParty",
+      "ShapeSha256": "cbe912a36b6ffaea86851bc08b3b586d68c5c0e07bc4a560f6970e9b2289e9df"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ITripleCastHighScorePartySlot",
+      "ShapeSha256": "58fb6258882871e1f595b97a13a2c0bf070f08c7c46ba05c07c6cf6cd04eee2e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ITripleCastHistory",
+      "ShapeSha256": "bd913b5b8f23a994e63fe085d3cabf7792bf07024d0d1f0f8aaf1dc533cde3b6"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.ITripleCastSeasonResult",
+      "ShapeSha256": "cb8e998b9eb506a55841547261a8c679fc6dcff890801c086cad965a88c38018"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.LeagueBasic",
+      "ShapeSha256": "18e190c6c5a6784ebbff9f593beb207521f48d8dd3e7f408514918c172b8325c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.LeagueGroup",
+      "ShapeSha256": "13bf19c0bddd3f6d083a23d453669f6ffbb1ffea5ce7458a0d3e274e1c8a9e3a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.LeagueGroupMember",
+      "ShapeSha256": "3f982f9208390616ba85372806bae7edba495f451f411dc070f044f341da53f9"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.LeagueHighScoreParty",
+      "ShapeSha256": "2f5d41a7c688e6e894b53809a7da52989a764c527d3e3fca5d6e9b1e87293938"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.LeagueHighScorePartySlot",
+      "ShapeSha256": "fc757f074c4d2ea88857a42bae16f774b510933b4dd6dee3894147aa034b7e78"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.LeagueHistory",
+      "ShapeSha256": "feac4f75638b6e51275142b6122c3213e36b8958d8859df1b2a3a56984f938cf"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.LeagueSeasonResult",
+      "ShapeSha256": "08e4389a65fadda7842b38cbe2ba2ba962bc796f1c32bcdfa7ba9b2252d82cfd"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.TripleCastBasic",
+      "ShapeSha256": "1d5c50715bdc5307bf53651aefed62405d6d481aaae4184b28c528cbf0b207ce"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.TripleCastGroup",
+      "ShapeSha256": "68721787ed7334e860ae1e08b73caead80843dae25a7cc4dd5a438262da1c507"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.TripleCastGroupMember",
+      "ShapeSha256": "05a3178bafaca3b17dd155336dcbfb720bb836072ff4c89a9ffcaf7e52bcb2dd"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.TripleCastHighScoreParty",
+      "ShapeSha256": "a708650298a28d44fd9501f3313111bd5938d7f1809fb902389def4873bbddeb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.TripleCastHighScorePartySlot",
+      "ShapeSha256": "1094d5c82747f24b34f3e54a43f3fd9e4446daa9ff2313bee221524abcd7c5ea"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.TripleCastHistory",
+      "ShapeSha256": "9c1a0fa1681e659c2a4f405a0b9b98bcaef4eab0895a14024a4691cc007d9088"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Leagues.TripleCastSeasonResult",
+      "ShapeSha256": "75fb57c7d3cca6612b043cd9a7ada693d6e5f233b6320af6f52be2d182747896"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lessons.CharacterLesson",
+      "ShapeSha256": "b52cbc205e4ce08a2bc625b3b750a4f1c9fda7f91ffbbffc2f428b463609f442"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lessons.CharacterLessonSlot",
+      "ShapeSha256": "7472128cb67e0e30e59e2a0ac38a5a1ec5d3bc6022d6d5b7c607e73e5529c77e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lessons.DailyLesson",
+      "ShapeSha256": "5cc39107d226b758d3d6519c476ea80c3780ccebc4fc587dcea6e3695f19b60e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lessons.ICharacterLesson",
+      "ShapeSha256": "92b36c8fd45cdd94c3ecc9b0df3ae7df7222f7828577ff11b4971615ae22cd20"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lessons.ICharacterLessonSlot",
+      "ShapeSha256": "d461772386a95326ff45f74719a709eaa5ca18309852a1509b1a16a82705c718"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lessons.IDailyLesson",
+      "ShapeSha256": "9974530093277f69a5691da5734b37e3bb2301bae9fef9a5f1d9d1d2bd6acafd"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.AnotherNotation",
+      "ShapeSha256": "9bddd2cf3de91b01e43b4cfcfda73e9dd10a5152a12bc84cf25edb6a23df3827"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.AuditionClear",
+      "ShapeSha256": "ee5f5ebac92d607e2dc7a87d48f31edc92ed9410fa7c61995044d90001bde58a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.BonusLive",
+      "ShapeSha256": "26aed414f39c900bfb09bbaa0a60791a5df0ea1728abce025a53a49bd9e47a1f"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.BonusLiveStage",
+      "ShapeSha256": "af8e7557763b99c88fca9a6050f961599d80cc249fccf3e9196ded1ad5b92501"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.ConcertStage",
+      "ShapeSha256": "51dfcda3dbc1c0a17af2c28eb2c0f2a2e143652cd2164b405d01e5487aacb515"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.DailyLimit",
+      "ShapeSha256": "36be430b900ba5e4987742143b66327e8d24b665f3b5cc14f2a8c1fb6b4cb6c3"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.IAnotherNotation",
+      "ShapeSha256": "81afc2c03497fe266c8fe524f6ec2ecc73db2f841e030370a800b7fd86a1e9f0"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.IAuditionClear",
+      "ShapeSha256": "7e7e51f2169450eb6ba4847ea5581d9fa09510227ca594efb385d4871a8ca3ac"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.IBonusLive",
+      "ShapeSha256": "f7b5fd2dbbb73fc26d1f36543fa3ae4dfd843b48bc0d8c79bfabd0b1f650e56c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.IBonusLiveStage",
+      "ShapeSha256": "9fdc66422b60d29ee5dbf6ef200fb4bd4207c2bea98e0a50073eff9ef0386d85"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.IConcertStage",
+      "ShapeSha256": "d11d348a93bfd843aee4e13ec17481d3325cd0e5b786e8327a7f5e761998f326"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.IDailyLimit",
+      "ShapeSha256": "c708d0225451117f769d6d5dafb36582239645693a83d8fa0bd8aa206f2c401f"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.ILive",
+      "ShapeSha256": "b841107d1a8c51bb92a355836c0035dc00839df707f5dbad341afc59b076cb77"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.ILiveAchievement",
+      "ShapeSha256": "ad75fbe8fd973dca046763b11432d302ccb6c586604627ab9c340c34d26a8800"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.ILiveDropCelling",
+      "ShapeSha256": "13478202e435d98c438d4c9c0d6439f2f0b1e08de7610c2b157855e0d8d5c877"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.ILiveDropLimit",
+      "ShapeSha256": "16ed6f78824737bf3814a6dc822004074a864c26b1af888c24aa665146e1cc62"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.IMusic",
+      "ShapeSha256": "e98f034f8d91c63151dc81d5a5866ae7451cffab9bbe500005ad1f21873e2f45"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.IMusicBookmark",
+      "ShapeSha256": "e7e240975ac87345bf584cacb7f57bca3a51cc358944e35d4011460f7c3198c1"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.IMusicCourse",
+      "ShapeSha256": "6e0a113bc54ea33be3a83acc6f5526e4f49fbd574d5b727f9708c7effdeba2ce"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.IMusicCourseRanking",
+      "ShapeSha256": "e8e4f83b4059668d5ca7c47117967e33e9d3ae7cdecc5480824ae99d45189bdd"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.ISpRate",
+      "ShapeSha256": "35220523a1cb32710bcf4c5b2015d3d04dbc0e680f3a83fe05f4f57f467ead39"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.Live",
+      "ShapeSha256": "d14bf2df321a8e970dc71e436bb24e6ab20616f3a0ef2d59171c2eda97283c02"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.LiveAchievement",
+      "ShapeSha256": "139c54df495fffc979b04e3d802e21d7e64e68aac44756574161194bdffd84b1"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.LiveDropCelling",
+      "ShapeSha256": "d2c72bd6083d165ede8038dbf3e7500fec1db8ad60c45ec72821204b35caba18"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.LiveDropLimit",
+      "ShapeSha256": "ff271f7c469279524d876f7c624bbd98e990eeaed28de635cc6b36a39c906047"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.Music",
+      "ShapeSha256": "b5067e5d08e3af710dea73c4e9fffdda7315c95ebc6d9fe33930439246a7602e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.MusicBookmark",
+      "ShapeSha256": "ab7ade37fab5a1e2d4b81fbc8fc69a5d2474d2f47ec4815b61a6831ff0e71535"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.MusicCourse",
+      "ShapeSha256": "06b5ce6ef71de3c47634e70ac0fdf47e95d87b7970e46f505c2617c150b0983b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.MusicCourseRanking",
+      "ShapeSha256": "a491b7825d781daa8d23b9e0d949326eec577747a6e55888678bef815ad2d7df"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Lives.SpRate",
+      "ShapeSha256": "ab7872767001354cf73be2098aa10716b9c4aa600b8712a239a901cf177c6120"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.AccessoryEffectMaster",
+      "ShapeSha256": "ff4a8c47f8025f60df8411dfa151707537dc5cc6c1a8808bf76af0a7eebe6bf2"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.AccessoryLevelPatternGroupMaster",
+      "ShapeSha256": "c913225045c07c3f2d0ab74c5c21fc404a587f378ff7b8cb27069c21580e91cc"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.AccessoryLevelPatternItemMaster",
+      "ShapeSha256": "925a56506ee0dbff2b39d47aef19e4e2cb068cd865f9c5c2743345f3c30bb13d"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.AccessoryLevelPatternMaster",
+      "ShapeSha256": "083ae1a8a7c0ba27c351de3f76235a87d39c8b429cade5aafe26de9eccfcc4f2"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.AccessoryMaster",
+      "ShapeSha256": "cd594f46241c46d091b5c23f503dd19c04721f7cd485c28325a4209003440fbe"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.AchivementRateRewardMaster",
+      "ShapeSha256": "e8d1c7cf3c82553fccceb0afc1213c1e8b39b5133807719f43bf25731c578610"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.AuditionMaster",
+      "ShapeSha256": "bff31742d9e793596e00d8377a51ebc68358f0a317069238ae64ad154f9614b8"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.AuditionPhaseMaster",
+      "ShapeSha256": "dbe8e5f039f923e3fc1e0f2323279d42723858ea27b0a62c295fc0b4881c5085"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.AuditionRewardPackageMaster",
+      "ShapeSha256": "e289b983e14c2a887d66d42ef84c25e18bf09e07ca0b85566d4d750eafed3d63"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.AuditionRewardThing",
+      "ShapeSha256": "d6e04f573c9a7d3c8ec672315ca2222ae8dc033f75fb75b5c6bcd4cefce15cf4"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.BombMaster",
+      "ShapeSha256": "33f245b6b9ecb35e3ed52cd9094fdaf49441abff05cbca2a04a3ac865e87d99c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.BranchMaster",
+      "ShapeSha256": "0301e88c8695af7ccb6e52da439f8161e3adb7b7b7565572cdfdca98e262ea8c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CampaignMaster",
+      "ShapeSha256": "6d1937e7dc13fba5cc07b7b735e96f2e6ae086720ccbb44c48b02017295d9d01"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterAwakeningItemMaster",
+      "ShapeSha256": "88a8b1d94f29a229c0ff286afe51fb7d9e217234be90e8f1cd2c6ba95c94a8c9"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterBaseMaster",
+      "ShapeSha256": "91afb3b2eb4cf4a5bf57a03db912d6f9a1b8f3127679673a565ba69f45d23ad2"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterBloomBonusGroupMaster",
+      "ShapeSha256": "e4955c6bfa759c34f3492ee708b611badec6e7178f369ea8f9b9c3cf78a375fb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterBloomBonusMaster",
+      "ShapeSha256": "f9893341411b69af01d9e3fe7ff95ffe19308cd81116d2f2e21880487a04c273"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterBloomItemMaster",
+      "ShapeSha256": "144100f959010172203a6ac34081976e588d5b21e3a5514858f5b2a3b5253333"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterBloomRewardMaster",
+      "ShapeSha256": "7c7639385362da48c221d222adf95f2e73c4f66fa86ce5416cd32681bb5996e9"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterCategoryMaster",
+      "ShapeSha256": "f73175948fa494d903a5a3dd4d2da9144a52155e61bfbed9c37e62b325577b71"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterExperienceItemMaster",
+      "ShapeSha256": "37a51a07077fc0d69626fd783281a9985772f7c4568698a4da38cbf89f77fdbb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterLevelMaster",
+      "ShapeSha256": "4307fa95c135c80435c92c2d014b516da3109cff6a60288eded167cac65b45f5"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterMaster",
+      "ShapeSha256": "81fd5f06b94392a9b9a92569ce366f6b12dcdfc4375f560cb7f03c8886c150aa"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterMissionMaster",
+      "ShapeSha256": "6925a55f21f3197e281afe995fec7068222416b1e175e5d801e29d88b3d12204"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterMissionStageMaster",
+      "ShapeSha256": "276da916d99977b95beae32db0674f2bbdfdc0a7474aaef31d99e1a7f66e6edd"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterPieceMaster",
+      "ShapeSha256": "c8ca1576f6bebc894f64887399357c72b1c43ed34c0335d3d15a434298fec5e2"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterSenseEnhanceItemGroupMaster",
+      "ShapeSha256": "77c57a6148f543d03c063fd4088ef10d3c15eb98ec54eb6ed58f417d17b4cbbb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterSenseEnhanceItemMaster",
+      "ShapeSha256": "a78633c8fff4729889d0a099a3aeede08c0bb1e4443b4e616fbb889d3c18a236"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterStarRankMaster",
+      "ShapeSha256": "d9ba29680cdd79f89c2b886ac9fbcb729f873b9557f15e57e1911535e319228c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterStarRankRewardGroupMaster",
+      "ShapeSha256": "df605d3f5a8e72bdf6bc7780655a4b4c824019dadfd1c769e342c06236ea1be3"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CharacterStarRankRewardMaster",
+      "ShapeSha256": "02f2dbaa4198fb8b48f45120d1c3e6836363dd78c963e3faddfcb08ea4816f26"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CompanyMaster",
+      "ShapeSha256": "59c8e0e19d0975cc810e506939d6bb6f73b28b9dbb63358b1457ae261d338411"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CostumeMaster",
+      "ShapeSha256": "282fe54d534f76674a1147ee677b097cad4284982b2a0a17a00286301d0ec829"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.CostumeWearableCharacterGroupMaster",
+      "ShapeSha256": "acc61f5dab878a31971c241bad5cca0b7fd29a04e2963b212057bfd9b520f624"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EffectConditionMaster",
+      "ShapeSha256": "364db6bcb9adf35707d58cb2f05f53306f15ee0d6e9c99ea6174437243b6b47e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EffectDetailMaster",
+      "ShapeSha256": "453ceee88e9053acb48b0f98e8d0e57c7639be92db3d1ebc8b326c7fff74328f"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EffectDurationGroupMaster",
+      "ShapeSha256": "db9d06f6b5e1d565e8f7fa354ffc80b1a29dd8988ba320ce8708a9ddde6f1420"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EffectDurationMaster",
+      "ShapeSha256": "42214b36495d7fffa12bc18be02c9aec3626f4da57f7facc5be1feaf2cd1b256"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EffectMaster",
+      "ShapeSha256": "5c93b5b1a13da6b6f5dd533e4c540bdcb23bf66a56396f54120a6cc34cb8451c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EffectOrderMaster",
+      "ShapeSha256": "a71c1bbc459b6a8fa270114fc17ed32778ace2a6836aa3a0e50e82a2d0791a59"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EffectTriggerMaster",
+      "ShapeSha256": "e8f9d5bcf1493e2471a9610e47c60ac8ff2fd56121b564e942a93f1ddab8598a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EpisodeMaster",
+      "ShapeSha256": "419b575b4dc98bcdb2e4b5b4c1bf5b337cc3aa1f7c357db9970ff022dd157403"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EpisodeReleaseCondition",
+      "ShapeSha256": "528190b5cb293ddb53b70b6152cad54ea7eaa5929a2d08d885139b69ed0dbd4b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EpisodeRewardPackageMaster",
+      "ShapeSha256": "1bc65a005958177bc7a0666c5ad1beebddb391a12c675cd60a5dcc99df863799"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.EpisodeRewardThing",
+      "ShapeSha256": "0be538b01f58f717b06d8be93a80db8aed63331e053dd454bef33cb15938363a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.ExchangeShopMaster",
+      "ShapeSha256": "4b6368127afc41ceb5f56fbcfd71bea66181bded0bf14d6b62fd44852691c7c4"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.ExchangeShopThing",
+      "ShapeSha256": "d26c05f2a44294362d206c49595c0ae262961abe40259e87ab14b025a43eb6cf"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.HomeCharacterVoiceMaster",
+      "ShapeSha256": "798453c3f8fa4a7daccbe704d5f2169911245eb67e989614ca11fb7b49b9231c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.HomeSkinMaster",
+      "ShapeSha256": "3e94ae065efac08eed8f6c3ee9d7df6e9a92d03977dc0b9c1fc8edc7c2c9088d"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.IconFrameMaster",
+      "ShapeSha256": "d8b793e086abb6fc5eaadb6da817f56424bf19500f77651f73c7a4bc25a6ee16"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.ItemMaster",
+      "ShapeSha256": "cf9af1d7617b7ea369624d387843fedf234fc463c573b07c501a7efeb8b54d73"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.LiveMaster",
+      "ShapeSha256": "1d2521f11200de19f50212deed5329a6243b7c18552c4fb9c08951d40b893c5f"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.LiveSettingMaster",
+      "ShapeSha256": "276f11bf0d02fbd410d2a9511075acdcf85c3b07244842b556402f5319fdd99e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.MissionMaster",
+      "ShapeSha256": "90a72098059b3bdcb394fdc3ee19c4c729eaa7fc3fad9f0aa3fce04e0aea6caa"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.MissionPassDetailMaster",
+      "ShapeSha256": "015c79134e5196b0c95e0ac930dff889d698acce83de7edaf99c929029842b61"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.MissionPassMaster",
+      "ShapeSha256": "dffeb2c683b33e19b9aa0b4a16b615355d25dde9c9767cff3b14541c9945b228"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.MissionPassRewardThing",
+      "ShapeSha256": "39623fa45634bae7b8369583bf162688a6400105c9fd89de4d7e82190f784538"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.MissionRewardMaster",
+      "ShapeSha256": "2865cc6ee40767e72713c3197fe83971cfd784e6d6cee61ae0479b92af4209f8"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.MissionStageMaster",
+      "ShapeSha256": "ecbb2edc346910c6475d3f4747c493ccb4356baef4956a72f6c47036659b1c54"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.MusicMaster",
+      "ShapeSha256": "79db2a0ef98c16d8f24d26f9c72e6a1ea64149bb1f9379f3b6b6c2428c247832"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.MusicVocalVersionMaster",
+      "ShapeSha256": "29aedd539cef81a8e856b9c47fb1a8a090c4aab35ae80551d1ac52b23e278239"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.NameBaseColorMaster",
+      "ShapeSha256": "0656989fe33151e40183d144cdf04677dd0c82eaa368ffeeb2d1ddbab65277e1"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.NameColorMaster",
+      "ShapeSha256": "dcadb9ff9141e376bcba0201d206af9f0daf455829be4b6d45891610110cf625"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.NameplateDetailMaster",
+      "ShapeSha256": "69d864fb3bb18e269df2e35b6082d06b6017493cfd46bd85b05e193cb1a7c323"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.NameplateMaster",
+      "ShapeSha256": "58ca2dc7e654a8b452145c495ea8989a556a9949e76331f10368de6766dd8f09"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.NoteMaster",
+      "ShapeSha256": "5e1db5b9bca985e1a37a177eef435c31cae7c89ebc356a6237e1adcb874e1c51"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.PosterCostumeMaster",
+      "ShapeSha256": "dfc4fd13f34617dc81e0a897ddec912caa14fbf5cf50f1b82b93fbbe11c28f8d"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.PosterLevelPatternGroupMaster",
+      "ShapeSha256": "729246e269e295e650503bbe827dc0ac4603be4feb1218f877b25288307831de"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.PosterLevelPatternMaster",
+      "ShapeSha256": "edb69c0dd0bc2a893aca22316cbc5a26c6eb853106e78644e01d667da7ad89d5"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.PosterMaster",
+      "ShapeSha256": "d2fc1b526b47a0786b06ac6612e24203e4861e03c993a43f463fd8d88e4ac311"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.PosterReleaseItemGroupMaster",
+      "ShapeSha256": "ac85b2378890a03183675d120818ade8158f9f0ec82b7e82523710dc355eccd7"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.PosterReleaseItemMaster",
+      "ShapeSha256": "f079aace203e3d264ef642aa9ef3a21354ea3ee8a00443f652e74ba21d73ee0c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.PosterStoryMaster",
+      "ShapeSha256": "40b1473101e11f6c96ec62b397d89cf20f356694ecf2fcad39c13b3215e322b1"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.RandomEffectGroupMaster",
+      "ShapeSha256": "df4ceeba4c3815d73f4836d84f6b3b43fbbe755441755d4195ae245aeb2e21b2"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.RewardRuleMaster",
+      "ShapeSha256": "d9e57f0f27e2cdcdfa77bf85a0d287c4294eabc77ae95a5e13bf14186880c6ab"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.SenseEffectMaster",
+      "ShapeSha256": "6091644ee44e36f1ead4de0cb3ccacb1cc96b77b0e6d23e6b24b07993b779346"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.SenseMaster",
+      "ShapeSha256": "73efe7e99cfbed9bd26fe854723729692b43630042becea552d72690842d5b9a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.SpotConversationMaster",
+      "ShapeSha256": "869a851bce309b1b1efb789ddf871c59e07417a49f6d0d12a199d8c9b20a8d03"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.StampMaster",
+      "ShapeSha256": "97f7a66f8d9530a28a3f190dbf3ee3a79080895afa2f208c128fc046fe7f4925"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.StarRankRewardMaster",
+      "ShapeSha256": "671f8a5164bac9d7e715e3b631ac4025b725a25480c3465df4c4bf63e9a06e9c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.StoryMaster",
+      "ShapeSha256": "562c630f35cbfa3c86cd39f433ef702164bc4064269fdcde8768974eb1b19c89"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.TrophyGroupMaster",
+      "ShapeSha256": "bc00c18a84d843859fd4f1969e49864b3975637b92478f8c4f59f33cd5c076cb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Master.TrophyMaster",
+      "ShapeSha256": "39aff957e9253220a8512bf427995929252fbbfb3f2bb6838cf164f98f9cc77e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Missions.FlashSaleStage",
+      "ShapeSha256": "1eca65eefc7e8d7542bebf8702c110da18d9ae0273743c63e08fdad7fde2f9b3"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Missions.GradualMissionGroup",
+      "ShapeSha256": "5164168d5807dfdc7c666ca83a6be1d514fdda7428b344cb2b13a2255f609423"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Missions.IFlashSaleStage",
+      "ShapeSha256": "3b4b37c2925521a2fc805442426b2de4c89bf91bb7b043b54012957af6b09075"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Missions.IGradualMissionGroup",
+      "ShapeSha256": "bffe319468813deaaa6e9a1b36ce51dc72614f686a6bdfc51ef27869e5227950"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Missions.IMission",
+      "ShapeSha256": "e8c237307123dc81479895c9036dd64bea92b09fbc63c534c7bfd3e1ef0c3abe"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Missions.IMissionPass",
+      "ShapeSha256": "6a4fd5c08d7229aaec9d1bf4df8ead5072e68ef8efcf81fb02197ee6829fb202"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Missions.IPickupCharacterMission",
+      "ShapeSha256": "045bfb77153a3a24fa68b48bda1f86936b27fc1ce2d8c431dd52ad9ec1c096e3"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Missions.Mission",
+      "ShapeSha256": "aa32676016e094a7bd50f89e0750968a311a48d29a6df48db2eb976a2df4883b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Missions.MissionPass",
+      "ShapeSha256": "9ce2b3a92f7bb35d277bc11cf0d8b5a83694bdf3d797a1fe39e299e17ca3617d"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Missions.PickupCharacterMission",
+      "ShapeSha256": "60c89ba8f7afe18824f30ac86623d308904c64e3d657faa8e5891e960d52ee28"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.MultiRoom.IMultiRoomBasic",
+      "ShapeSha256": "953dde36d00dbc3dbe3538dae4b687389e71d797a853763a7ed89e76cf058345"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.MultiRoom.MultiRoomBasic",
+      "ShapeSha256": "9f0e1c085356baa521f5283122bba6e1c3b33df100aff97fc5bfeb6a813076b2"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Parties.IParty",
+      "ShapeSha256": "713e3e91c8133e7794023c8fab16a6105f7ac9c4d7887a7425e6ec1f33b7abb6"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Parties.IPartySlot",
+      "ShapeSha256": "1cee274887ab149d4704ca2bb855c0f69e2c4f5433b21a69970212f8cdf80bba"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Parties.ITripleCastParty",
+      "ShapeSha256": "48fe2318b3a123df6be00fdecdde57d019e464ed1115127b49d74279d6424ce9"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Parties.ITripleCastPartySlot",
+      "ShapeSha256": "7aa835a280c00671b0da325653825635fe9dc30920fdd931375d584fd11befe5"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Parties.Party",
+      "ShapeSha256": "fda595081dafe53946e88d264868985a4f1f55e407ea6dbae51c33547fa6c09f"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Parties.PartySlot",
+      "ShapeSha256": "2e01d35f343d46827be2ae5bffcc917eda8ef7aa0c661edecacb155ba7528e72"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Parties.TripleCastParty",
+      "ShapeSha256": "df7f870d49e10e91b4453e2b37c50cfb0ab6c1fd9741662700d0699a6663ad5b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Parties.TripleCastPartySlot",
+      "ShapeSha256": "55ad0273044eee4ded34e7850077efcf1a684f78b8b358769364f25592a8138b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.Album",
+      "ShapeSha256": "f25883facf853e97be59b75a6c18458554a4d78aa99bec108b4b1f28b90dbd1e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.AlbumPage",
+      "ShapeSha256": "61ef77b9830a86a28e568c84b70c3f4f4a7cbb2b8b54abdc24a7cafd65c1ccf4"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.AlbumPreset",
+      "ShapeSha256": "249a2b832e7db19daa1b8ccbf02bf32b19db72a382dcdd3d96b4dfbd96873d7b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.AlbumTheme",
+      "ShapeSha256": "a6bac3011e7a330bbfab6f08694b1304a48efe1696e4ba2061b5d3f1d8060deb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.IAlbum",
+      "ShapeSha256": "d5936e517920e1c119081c6dc3859d379c2d6308aa7e2c34db9be6435720b4bc"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.IAlbumPage",
+      "ShapeSha256": "30f3230c5a8c8725d2604f5f24f4996dab68f00ab0add3aaed06daf06ee19837"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.IAlbumPreset",
+      "ShapeSha256": "43347a8dd9684cf56e7f1485754f614dbf83d3b54293bda37d6ae0f29b056cc6"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.IAlbumTheme",
+      "ShapeSha256": "62a18a836eb3323c3bc86387936908f4b72230d71111998a0dbb1ad222500280"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.IMusicVideo",
+      "ShapeSha256": "0fb6d6e33203b85f80d97288ca13db92b878e1989af595098cec9641e04200b6"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.IPhoto",
+      "ShapeSha256": "a6b4bf20868098231206997936b7a45fb2f9d72ddffa3e0d5580c4d3a7920e37"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.ITheaterStory",
+      "ShapeSha256": "c613f0ddc5498cd1168514caab0a4ac7b8e4740489a110078de80317538f9683"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.MusicVideo",
+      "ShapeSha256": "4b8d2f21bbf1c3da8db53fbab628c91ef03b158d1a95ce0ef005a7cf3fc95bbb"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.Photo",
+      "ShapeSha256": "2fe4f2903aa0bf1d6bfd2545c283ab184dc830e437f655ba5941c9855e35b4cc"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Photo.TheaterStory",
+      "ShapeSha256": "b03f54675d11d02f568c36d92af2b98e976c4f47528d68332e79d03615a36c20"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.Currency",
+      "ShapeSha256": "d646a6b2bc8fcc4803bc20c0b064146a1c4b460560fcb431972d59a2fdedef7d"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.GameHint",
+      "ShapeSha256": "86eafe8036c3ad716db65eeafc5717ff836743b4bec5d5041e4982e43a317959"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.HomeDisplayPreference",
+      "ShapeSha256": "64d8ff5489b9b42db20b65506fcbd5166b622baa8f367a8c6c04c8b64c6f29a9"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.ICurrency",
+      "ShapeSha256": "8248e9386420205a6256a54cb28fa3f2e93097b5ef15b103b0dda7e8515721bd"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.IGameHint",
+      "ShapeSha256": "c0941cddfec1e81c73019b48f82bb9f58b10d3bd216dc173749b00b9e4ae8711"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.IHomeDisplayPreference",
+      "ShapeSha256": "c32734bbd6beeda1db0cf0b00a2b3e0160e61781d7df5691c669ce6b1ad61d46"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.ILimit",
+      "ShapeSha256": "66afe2204f19e60d2abc264f36d1de02f7fb507d7e3019156b2cfc0ea197b09e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.IUser",
+      "ShapeSha256": "e21640b68b180fbdcdc64ff3c304c078525eceb3484048948f2cd53b1acbda8b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.IUserBonus",
+      "ShapeSha256": "905ecc9ea0eed164c6f5960afdd2dcb203f8d7186fa3d6f9bf7f5754ddd8c1b5"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.IUserPreference",
+      "ShapeSha256": "2cf1a8b3e99a85704c724f3e0852dc23fbe2e68067c09fdb686520fda8c9d8d1"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.IUserProfile",
+      "ShapeSha256": "0f43cf3a168a9f9a2e7939718727c39ff5002276f1034d04fa5b186a4f97bd5e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.Limit",
+      "ShapeSha256": "41aaaf898bb643ad1c4649555286ad9ada91860ffe0e48a508cb6a478f17b54d"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.User",
+      "ShapeSha256": "8f1c21d2fa6c42a24fc62eacee1956d6d12e5c19afbec84c18687169a4a37ce4"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.UserBonus",
+      "ShapeSha256": "6f6a184bf5fa4702743656378962b13f2e0c6fc629efe4171e91280a852f9211"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.UserPreference",
+      "ShapeSha256": "39365eab9bfd512007d90a50abc611b769ed2e7f42f88bdec87ca88db1e89b91"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Player.UserProfile",
+      "ShapeSha256": "596132eac2ffc9cea7934814bfd97042f9e2d06ef832e11bac4a5d9f606c8377"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.Bomb",
+      "ShapeSha256": "ac59504e99a7ae841dab6b0ac946fdc0bfde58f422677aa3e3c8d3b39381bcf7"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.BuffItemStatus",
+      "ShapeSha256": "b7b898f1718fd49abf30130ab4e2377d372e4bb8eb60e7cf1e34b9c5a22b0c74"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.Costume",
+      "ShapeSha256": "839c0eeedd169b31f37d2f715dce8471121c7725f2bbf17af570fbf1cf6d3e2f"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.Decoration",
+      "ShapeSha256": "587deb0d887477385431c3c79048d550a1738c86a1abfcdd3158831f72fa4b5d"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.FavoriteCostume",
+      "ShapeSha256": "9a6f46548299a373445306bb0afc05899d2a7dbfeb65cdd1a5658ce6f53aedf2"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.HomeSkin",
+      "ShapeSha256": "310881a0406bd15ec7f69637800513749e42b53846e0e3535638d6cd021d8d5b"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.IBomb",
+      "ShapeSha256": "06726a0457a4085753d8d7b7ddebdb6c120c8ab9af33e8dbdb20a23cc0c28143"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.IBuffItemStatus",
+      "ShapeSha256": "8c2f2da13666aee5bc8716144d108ef214fc6c9864c389ce659a37578ab83945"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.ICostume",
+      "ShapeSha256": "44a248ec350e535a651f65adc9a3c8bc079028187035a8285c727889114cd584"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.IDecoration",
+      "ShapeSha256": "1bd68fca4f6496413e90d49678592f4b1bac429334b5501bd936af182e42820a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.IFavoriteCostume",
+      "ShapeSha256": "02b4fac502492c242ed57ffb93e33055110e3a05b13528c27140eaa1b3bc22a5"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.IHomeSkin",
+      "ShapeSha256": "a4670d725a86114879cf5125c34b3cfe78dae1e62db60464b4db1d6cc617a35c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.IIconFrame",
+      "ShapeSha256": "74685b08a780cdbab842124b6a63450543f02e8415ff284ff684c6ed718d9231"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.IItem",
+      "ShapeSha256": "5edc33500b18d517699320d23b26823a0a952deb2a1da72e2d9101f914c11966"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.INameBaseColor",
+      "ShapeSha256": "dfbb57cfaaa0309a03724d0b962a490475cb47bf3f463c18c3dca0ffbc37d78e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.INameColor",
+      "ShapeSha256": "5e9c84f08d9ed91ccaee3c788be07f89944158110f6e74252f572e9575bf3c68"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.INameplate",
+      "ShapeSha256": "be83600746a09814862ffde0d4dace05deec5fd997e28716d298625affce6322"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.INote",
+      "ShapeSha256": "c6a700e5532e77417c595ea7533baee2923d273a4baeda721332096f902a82be"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.IStamp",
+      "ShapeSha256": "584c7635e04dbf75271eb096bb9e552a3456c74ea62344c5a24532d1151fb8d1"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.ITrophy",
+      "ShapeSha256": "a517e0965fdac24cba34e21dfbf19bb34063f4f22785c4a5a6701820f7c9fe89"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.IconFrame",
+      "ShapeSha256": "5c8932f34ef7c35be20908e8fbbd0861810e440f10c7e8ab1a82f7d5de1e20c0"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.Item",
+      "ShapeSha256": "ca25859280ace46f0f707bc01574853f8e0b2731f015d377b058cd1bcfdf147c"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.NameBaseColor",
+      "ShapeSha256": "5732554e916c8e2bd6023a61f799322c2628e88af8511da2e546a002cd66bfa0"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.NameColor",
+      "ShapeSha256": "ccfca0eaf2d1b7eea13fba50b60726aea381e60dcb66bfe84ef9a7af7987dfc8"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.Nameplate",
+      "ShapeSha256": "9ae0cd9a04cd5e9b45587be2261e433f038d3e23625ce9cf0cf30dd21b27132d"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.Note",
+      "ShapeSha256": "eea111365f4c86c22879133a620188f9a2df5ec51c362c3ff0e918824ec8563a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.Stamp",
+      "ShapeSha256": "0a9f216a20ffa30d516a663790cf9956a063beb391e5842ceb3bae0ef7d6f568"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Possession.Trophy",
+      "ShapeSha256": "de7e0610d27d73089c8db4319bd58469f1cdaf9f15c05db2a5a351a6cae83c71"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Posters.IPoster",
+      "ShapeSha256": "4a1dd53b060a2f97bcb2e27b5ad10f2245fbc470f9f4cc71da2979d4a7b38e16"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Posters.Poster",
+      "ShapeSha256": "5e6352fe993ada9a223b6aa28b2cf69d05400b127148d666d710985f652bbcb9"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Roulettes.IRoulette",
+      "ShapeSha256": "24309c1093fe02fedb668fc70616a49142f94a4fb3b52f0efc9d89a2c23f7bb0"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Roulettes.Roulette",
+      "ShapeSha256": "471ebfb321813d2b3b22156dcc5e6d6e868e5906c0a47b43acf2c0c19342fdec"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.ExchangeLimit",
+      "ShapeSha256": "f288ed40445d467e144ce7bbb1c5095645d996058ec5e1db265343ca83eff3ff"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.IExchangeLimit",
+      "ShapeSha256": "2e40c403406dfad15df83b00b6a1426c61190ab6bb6f1571fa8768258c3d4829"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.IJewelShop",
+      "ShapeSha256": "0df4873a9d78a8110610d6c815321d74e023d8de0911f1ebed462c09f0f1f86e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.ILoginPassStatus",
+      "ShapeSha256": "6bc225f62fa1541e75ca8fafa1ca4e124aa575a473f19576644def6469d63bb6"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.IPermanentMarketThing",
+      "ShapeSha256": "dcd11167439dc62b4664a7059b1062bfb250c72965e34e365aacfbcd7080bacc"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.IStarPassStatus",
+      "ShapeSha256": "a65ed0fc8f2f30b5953b2caf1768ed3eace6b6bdb50f7eb85460314eaf079a15"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.IViewedShop",
+      "ShapeSha256": "a4c2045c09a2e5171e5be9df55f6b575f3f6892f9c15d95798c6ad1b5cf71659"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.JewelShop",
+      "ShapeSha256": "2e3a33e9b781b3e405c15cdb0ba2a293ba090f2c2ffc260df0dfa260ce4dfebf"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.LoginPassStatus",
+      "ShapeSha256": "d754385a470bbc518ee325cba1ceb59ce62090771ed4d7d3e483ec01d7cfe8cd"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.PermanentMarketThing",
+      "ShapeSha256": "124d95417b2adaa7cae027c191d808ae5484f2b0edc2acdc91ed64862b4f3220"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.StarPassStatus",
+      "ShapeSha256": "cafa0818db21851eae89ac5b9f852f18cec8a9c154d65f71075bdd23f6fc88b3"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.Shops.ViewedShop",
+      "ShapeSha256": "41f5b4f7807e93f25eda002da03b86fce86b838489339802a90891b9011e285f"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.UserBlock.IUserBlock",
+      "ShapeSha256": "a99c90ac6b44423a6f9a33db10fa3d04844bafc6df0dce14847bcaf5bf49e291"
+    },
+    {
+      "Name": "SiriusApi.Shared.Models.UserBlock.UserBlock",
+      "ShapeSha256": "f0b1ec231a2adc2662fec8fe3b01cd096cbf4bb596d9737fcb982e719ba39136"
+    },
+    {
+      "Name": "SiriusApi.Shared.MusicBookmarkFlags",
+      "ShapeSha256": "5d570fa9c73128a669a8e7f35368a21e3984b663e1ceb420acda180ad3b63b64"
+    },
+    {
+      "Name": "SiriusApi.Shared.MusicCourseCertificationGrade",
+      "ShapeSha256": "fb723de5ec535978ae9831908291c0355c7135acb387b15f759a6c7f0995d81e"
+    },
+    {
+      "Name": "SiriusApi.Shared.MusicCoverTypes",
+      "ShapeSha256": "b2551dad523f76664cbb7696207b99cfd5d5d7a5d5ec4443beb5490b8d2cd1aa"
+    },
+    {
+      "Name": "SiriusApi.Shared.MusicDifficulties",
+      "ShapeSha256": "0323701acbe5010f9e316480ed3a98b90d068a6058e2b6f9bfffb246047b167d"
+    },
+    {
+      "Name": "SiriusApi.Shared.MusicUnlockConditionTypes",
+      "ShapeSha256": "d269601e488dab5f41082e93c112f4c8f638bbd66fa0d08551e9fc9004108a1f"
+    },
+    {
+      "Name": "SiriusApi.Shared.MusicVideoTypes",
+      "ShapeSha256": "1d9c74413e9628b55861d686988767880e070b86319fbe1692959359e986f7c9"
+    },
+    {
+      "Name": "SiriusApi.Shared.NamePlateChangeTypes",
+      "ShapeSha256": "a270ab29a683bf3f85bbb0f9877a396e64a502f6f4c16170116e197c822dc2a5"
+    },
+    {
+      "Name": "SiriusApi.Shared.NotificationCategory",
+      "ShapeSha256": "46983021bfd59ff65db15aea94c610faead824c06daa305f13528cb1a3acc9a4"
+    },
+    {
+      "Name": "SiriusApi.Shared.NotificationResult",
+      "ShapeSha256": "d5308ae45a2b9bc5394a0ed5e8b4a0c74a794f4c1b09d36dfa3ebbc8045639e2"
+    },
+    {
+      "Name": "SiriusApi.Shared.NotificationTabCategory",
+      "ShapeSha256": "1e932bbd77c6abb5febee627178108e0ac0d127bebef8b4728faaf1f72b00f9a"
+    },
+    {
+      "Name": "SiriusApi.Shared.Notifications.AcceptFriendRequest",
+      "ShapeSha256": "28bfaf71aabeffcdb1b023deaf8f771b3700ee49de86fe6e4eff89f4ddfb0caf"
+    },
+    {
+      "Name": "SiriusApi.Shared.Notifications.FriendRequest",
+      "ShapeSha256": "1b4305c8750def8f4733cb17c743587fc1e67480631f7a3272274f0210ec179e"
+    },
+    {
+      "Name": "SiriusApi.Shared.Notifications.MissionCleared",
+      "ShapeSha256": "0c0ad85042049f945b5b748c840ad13182029ff95a0f5b543f748d35947685da"
+    },
+    {
+      "Name": "SiriusApi.Shared.Notifications.MultiLiveRestriction",
+      "ShapeSha256": "fbdd0dc7ee39eac2fc676c987c90d2706ec5c6271ffa3ee41f1765dcf41f1b85"
+    },
+    {
+      "Name": "SiriusApi.Shared.OlivierReleaseStatuses",
+      "ShapeSha256": "4d16c7a7505c50be2c6b4880238dd85ea21eba3e79a7b8e6135999700b31a680"
+    },
+    {
+      "Name": "SiriusApi.Shared.PageCategories",
+      "ShapeSha256": "284f2376484e35daf892233e890025bf7daf6292d22e5917ec64b56f99c36465"
+    },
+    {
+      "Name": "SiriusApi.Shared.PhotoRarities",
+      "ShapeSha256": "d9617095dd8f858dea87f1592492d563c58c0536e702d64baf245e35923f22b0"
+    },
+    {
+      "Name": "SiriusApi.Shared.PlayTimeTypes",
+      "ShapeSha256": "b8dc5484a814bd17d9a68ca8ca2da8339810a6c2bb7e148a1d719003a843088f"
+    },
+    {
+      "Name": "SiriusApi.Shared.PossessionRarities",
+      "ShapeSha256": "7c04b86c690874aef528460ac1de5b9ccd33e7ce59f7f71f1da18860ac624a51"
+    },
+    {
+      "Name": "SiriusApi.Shared.PossessionRarityFlag",
+      "ShapeSha256": "6f6c0e97fd6565bf88e2591d21cf31602f0f06eeb9398d97ae7f8fe020e8deef"
+    },
+    {
+      "Name": "SiriusApi.Shared.PosterEpisodeTypes",
+      "ShapeSha256": "e8a1623fe36fe92098eff4adaada859964c6e3b2450d4946aaec626bbb2963ac"
+    },
+    {
+      "Name": "SiriusApi.Shared.PosterOrientation",
+      "ShapeSha256": "81378b65af7ea0a329a973e3befe5dab683fdea0fd1ac2e18b8d67ff8a1d542c"
+    },
+    {
+      "Name": "SiriusApi.Shared.PosterSubTitleDisplayConditions",
+      "ShapeSha256": "ac752d52724fdbeb6f2c5af42600092f5af71ddf9c6594b5286628bbbb53a044"
+    },
+    {
+      "Name": "SiriusApi.Shared.ReceivedThing",
+      "ShapeSha256": "88abbc1096cd82870d19609ae885c44cac7cc210ebc4c0884cb7a314c8dea429"
+    },
+    {
+      "Name": "SiriusApi.Shared.RegisterPayload",
+      "ShapeSha256": "757174b80416ed12e5425e3cdbd724252877402c34d4605b95205e47a1f4a168"
+    },
+    {
+      "Name": "SiriusApi.Shared.SenseTypes",
+      "ShapeSha256": "c90e6887191ce0c855dadf4fd52d0e2a7bdd4dbb59d7cde5c16f9eadf424eb32"
+    },
+    {
+      "Name": "SiriusApi.Shared.ShopCategories",
+      "ShapeSha256": "128137ed2c6d4c8dbe6e32b49ef4838b09f0932d5fbeb92bbffa4442412b131f"
+    },
+    {
+      "Name": "SiriusApi.Shared.ShopReplaceTypes",
+      "ShapeSha256": "618483e9cac745e2f4fb70b99df3589d6f60052ed0e3d8d7439a523173c73eb2"
+    },
+    {
+      "Name": "SiriusApi.Shared.ShopUnlockTypes",
+      "ShapeSha256": "8fa5ce0e338b86ef7596ec154066005ba99fd4c37990213d7e285f409b3d23d6"
+    },
+    {
+      "Name": "SiriusApi.Shared.SpotTypes",
+      "ShapeSha256": "8c775bc72bbf7dc4352e11402230606b4454530c951e72f5281dcd8f1eaab7da"
+    },
+    {
+      "Name": "SiriusApi.Shared.StampType",
+      "ShapeSha256": "98a46025941b4fcc1dbdff7c68152b8a870b6b348b54b2e460b2e31d55309ccf"
+    },
+    {
+      "Name": "SiriusApi.Shared.StarPassTypes",
+      "ShapeSha256": "8e846cc895097a2babbc59c1570b7fe6d62e9b795886cf8af134e31552d18b97"
+    },
+    {
+      "Name": "SiriusApi.Shared.Status",
+      "ShapeSha256": "909ee3aecc6a0d17ace0e74962dc360454fbc3acaf29ffbdc28d276898061a8f"
+    },
+    {
+      "Name": "SiriusApi.Shared.StoryEventPointExchangeResult",
+      "ShapeSha256": "18504725595ec72cc001e488d7d19cc4e7a667823b7a610ee077ba8781c35174"
+    },
+    {
+      "Name": "SiriusApi.Shared.StoryTypes",
+      "ShapeSha256": "c34c0fa3781d0fd5acb0c8e17d35e5055113ded4a408f04794c24104aea8ae86"
+    },
+    {
+      "Name": "SiriusApi.Shared.TabCategories",
+      "ShapeSha256": "6bba860a100dac1fd33eb16b46fc77d02afb9ae4f01090fafd46252de9846629"
+    },
+    {
+      "Name": "SiriusApi.Shared.TalentBloomItemTypes",
+      "ShapeSha256": "200f04bfceff6d6e5f8f69e35ed4fbb9a3feb958a878d00695a9d153667ac27a"
+    },
+    {
+      "Name": "SiriusApi.Shared.ThingTypes",
+      "ShapeSha256": "75dfae1a37eecf7b8313ea0f03866f6e16587c2c98c855ceda1de94ccfa29a04"
+    },
+    {
+      "Name": "SiriusApi.Shared.TriggerType",
+      "ShapeSha256": "1fa9718f825a36a55666f660184de52677cfc0b7879d58d5b8d9da859d2c1201"
+    },
+    {
+      "Name": "SiriusApi.Shared.TrophyCategories",
+      "ShapeSha256": "c257a2384fb17541723dee5dfee47598eeb9736c922dba79fdeea37753d48619"
+    },
+    {
+      "Name": "SiriusApi.Shared.TutorialStatus",
+      "ShapeSha256": "83da17b9aab16f0a9a2792a077721fd141c3face5e24c075383caaf1f0bbdb4b"
+    },
+    {
+      "Name": "SiriusApi.Shared.UpdateGameHintPayload",
+      "ShapeSha256": "e278a243731c7a310d9e3261b3d589eef0e9a3224f713a89ade4f950ae470d8f"
+    },
+    {
+      "Name": "SiriusApi.Shared.UseDecoPageFlag",
+      "ShapeSha256": "6604772914e663727b7ef55982160582b2b61b824e3ee4b218dc1c222cc69a03"
+    },
+    {
+      "Name": "SiriusApi.Shared.ViewedShopCategoryTypes",
+      "ShapeSha256": "c7a8b4d6baabd5f84b947502575eac36795c15659014572f9172472b4fdc9d7d"
+    }
+  ],
+  "Output": {
+    "Path": "Sirius.Shared.g.cs",
+    "Sha256": "14447582bc64fcb0d4f5459dce34cad8e957094c8ef6d2fc687da06ab2d411e4"
+  },
+  "Serializer": {
+    "ResolverOrder": [
+      "GeneratedResolver",
+      "StandardResolver"
+    ],
+    "DefaultCompression": "Lz4BlockArray",
+    "Evidence": "stub/Sirius.Serializers/DefaultMessagePackSerializer.cs@0xA66ABC8"
+  }
+}
